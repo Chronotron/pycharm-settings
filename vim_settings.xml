@@ -23,6 +23,12 @@
         <mark key="]" line="14" column="8" />
         <mark key="." line="14" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/homework/chaos-beast/MA120/probability/probality_functions.py" timestamp="1499556439699">
+        <mark key="[" line="30" column="61" />
+        <mark key="]" line="34" column="7" />
+        <mark key="." line="34" column="7" />
+        <mark key="^" line="34" column="7" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/setupMainMenuHandler.py" timestamp="1490985836507">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="21" />
@@ -149,7 +155,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEByZXF1ZXN0X2RlY29yYXRvcgo=</text>
+        <text encoding="base64">ZGVmIHBlcm11dGF0aW9uKG9iamVjdHMsIHNlbGVjdGlvbnMpOgogICAgcmV0dXJuIG1hdGguZmFjdG9yaWFsKG9iamVjdHMpIC8gbWF0aC5mYWN0b3JpYWwob2JqZWN0cyAtIHNlbGVjdGlvbnMpCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -203,31 +209,31 @@
         <text encoding="base64">ICAgIEBkZWNvcmF0ZV9yZXF1ZXN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEByZXF1ZXN0X2RlY29yYXRvcgo=</text>
+        <text encoding="base64">ZGVmIHBlcm11dGF0aW9uKG9iamVjdHMsIHNlbGVjdGlvbnMpOgogICAgcmV0dXJuIG1hdGguZmFjdG9yaWFsKG9iamVjdHMpIC8gbWF0aC5mYWN0b3JpYWwob2JqZWN0cyAtIHNlbGVjdGlvbnMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ0ludGVyZmFjZUludGVyYWN0aW9uKGFjdGlvbiwgaWQpCg==</text>
+        <text encoding="base64">ZGVmIGNvbWJpbmF0aW9uKG9iamVjdHMsIHNlbGVjdGlvbnMpOgogICAgcmV0dXJuIG1hdGguZmFjdG9yaWFsKG9iamVjdHMpIC8gKG1hdGguZmFjdG9yaWFsKG9iamVjdHMgLSBzZWxlY3Rpb25zKSAqIG1hdGguZmFjdG9yaWFsKHNlbGVjdGlvbnMpKQoKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbC5zdXAuc2V0dXAuc3JjLnBpbmcucGluZ0RhdGEgaW1wb3J0IFBpbmdEYXRhCg==</text>
+        <text encoding="base64">ICAgIEByZXF1ZXN0X2RlY29yYXRvcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbC5zdXAuc2V0dXAuc3JjLm1hbmFnZU5ldHdvcmsubWFuYWdlTmV0d29ya0RhdGEgaW1wb3J0IE1hbmFnZU5ldHdvcmtEYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ0ludGVyZmFjZUludGVyYWN0aW9uKGFjdGlvbiwgaWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhZGFwdGVyLmVuY29kaW5nIGltcG9ydCBlbmNvZGVfYnNzaWQK</text>
+        <text encoding="base64">ZnJvbSBtb2RlbC5zdXAuc2V0dXAuc3JjLnBpbmcucGluZ0RhdGEgaW1wb3J0IFBpbmdEYXRhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImJzc2lkIjogc2VsZi5zdHJCU1NJRCwK</text>
+        <text encoding="base64">ZnJvbSBtb2RlbC5zdXAuc2V0dXAuc3JjLm1hbmFnZU5ldHdvcmsubWFuYWdlTmV0d29ya0RhdGEgaW1wb3J0IE1hbmFnZU5ldHdvcmtEYXRhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uQ29uZmlnRmlsZVBhdGggPSAiL2NmZy93aXJlbGVzcy1uZXR3b3JrLWNvbmZpZy57MH0uanNvbiIuZm9ybWF0KHNzaWQpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ZnJvbSBhZGFwdGVyLmVuY29kaW5nIGltcG9ydCBlbmNvZGVfYnNzaWQK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImJzc2lkIjogc2VsZi5zdHJCU1NJRCwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2V0Q29uZmlnRmlsZVBhdGgoc2VsZiwgYnNzaWQpOgogICAgICAgIHJldHVybiAgIi9jZmcvd2lyZWxlc3MtbmV0d29yay1jb25maWcuezB9Lmpzb24iLmZvcm1hdChlbmNvZGVfYnNzaWQoYnNzaWQpKQo=</text>
+        <text encoding="base64">ICAgICAgICBqc29uQ29uZmlnRmlsZVBhdGggPSAiL2NmZy93aXJlbGVzcy1uZXR3b3JrLWNvbmZpZy57MH0uanNvbiIuZm9ybWF0KHNzaWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
