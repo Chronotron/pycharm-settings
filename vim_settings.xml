@@ -90,10 +90,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500842619793">
+      <file name="/Dummy.txt" timestamp="1500842656867">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/presenter/setup/wirelessNetworkSetupPresenter.py" timestamp="1490984721639">
         <mark key="[" line="14" column="46" />
@@ -165,7 +165,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>margin_error_t(2.575, 164.0, 11.6)</text>
+        <text>start of probability dists</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -210,7 +210,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>margin_error_t(2.575, 164.0, 11.6)</text>
+        <text>start of probability dists</text>
       </register>
       <register name="/" type="4">
         <text>upper</text>
