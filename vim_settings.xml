@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1499556198238">
+      <file name="/Python Console" timestamp="1500832411970">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1490882862718">
@@ -73,7 +73,6 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/homework.css" timestamp="1499558142894" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/tornado/server.py" timestamp="1490887263004">
         <mark key="[" line="1" column="0" />
       </file>
