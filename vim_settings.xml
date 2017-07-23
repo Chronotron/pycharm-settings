@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1500839871859">
+      <file name="/Python Console" timestamp="1500840501494">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -165,7 +165,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>margin_error()</text>
+        <text>margin_error_t(2.575, 164.0, 11.6)</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -210,7 +210,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>margin_error()</text>
+        <text>margin_error_t(2.575, 164.0, 11.6)</text>
       </register>
       <register name="/" type="4">
         <text>upper</text>
