@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1500838901814">
+      <file name="/Python Console" timestamp="1500839871859">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1490882862718">
         <mark key="[" line="0" column="0" />
@@ -65,9 +67,9 @@
         <mark key="]" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/homework/chaos-beast/MA120/statistics/statistical_functions.py" timestamp="1500838791262">
+      <file name="$USER_HOME$/Documents/homework/chaos-beast/MA120/statistics/statistical_functions.py" timestamp="1500839758022">
         <mark key="'" line="105" column="0" />
-        <mark key="[" line="130" column="0" />
+        <mark key="[" line="129" column="0" />
         <mark key="]" line="132" column="30" />
         <mark key="." line="132" column="30" />
         <mark key="^" line="132" column="30" />
@@ -162,8 +164,8 @@
       <jump line="105" column="0" filename="$USER_HOME$/Documents/homework/chaos-beast/MA120/statistics/statistical_functions.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIHBvcF9zdGFuZGFyZF9kZXZpYXRpb25fY29tcCh2YWx1ZXMpOgogICAgdmFsX3JhbmdlID0gc3RhdF9yYW5nZSh2YWx1ZXMpCiAgICBfbXUgPSBtdSh2YWx1ZXMpCiAgICBzdW1feF9wb3dlcl8yID0gcG93ZXJfc3VtKHZhbHVlcykKICAgIGxlZnRfc2lkZSA9IHN1bV94X3Bvd2VyXzIgLyB2YWxfcmFuZ2UKICAgIHJpZ2h0X3NpZGUgPSBtYXRoLnBvdyhfbXUsIDIpCiAgICByZXR1cm4gbWF0aC5zcXJ0KGxlZnRfc2lkZSAtIHJpZ2h0X3NpZGUpCgoK</text>
+      <register name="&quot;" type="4">
+        <text>margin_error()</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -208,7 +210,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>margin_error()</text>
       </register>
       <register name="/" type="4">
         <text>upper</text>
