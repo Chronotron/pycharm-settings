@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1500833755855">
+      <file name="/Python Console" timestamp="1500836500442">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1490882862718">
@@ -65,11 +65,12 @@
         <mark key="]" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/homework/chaos-beast/MA120/statistics/statistical_functions.py" timestamp="1500834104281">
-        <mark key="[" line="55" column="12" />
-        <mark key="]" line="53" column="21" />
-        <mark key="." line="53" column="21" />
-        <mark key="^" line="53" column="21" />
+      <file name="$USER_HOME$/Documents/homework/chaos-beast/MA120/statistics/statistical_functions.py" timestamp="1500836004180">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="52" column="33" />
+        <mark key="." line="52" column="33" />
+        <mark key="^" line="52" column="33" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/tornado/builder.py" timestamp="1490888769909">
         <mark key="[" line="33" column="43" />
@@ -158,10 +159,11 @@
       <jump line="66" column="22" filename="$USER_HOME$/Work/tcp-tl-70/server/src/adapter/networkInterfaceAdapterTest.py" />
       <jump line="57" column="52" filename="$USER_HOME$/Work/tcp-tl-70/server/src/adapter/networkInterfaceAdapterActual.py" />
       <jump line="55" column="4" filename="$USER_HOME$/Work/tcp-tl-70/server/src/adapter/networkInterfaceAdapterActual.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/Documents/homework/chaos-beast/MA120/statistics/statistical_functions.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB2YWx1ZSArIDAuNQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -206,49 +208,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>wireless-net</text>
+        <text>upper</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBkZWNvcmF0ZV9yZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBib3VuZCh2YWx1ZSwgcmFuZ2UsIC0xKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB2YWx1ZSArIDAuNQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHBlcm11dGF0aW9uKG9iamVjdHMsIHNlbGVjdGlvbnMpOgogICAgcmV0dXJuIG1hdGguZmFjdG9yaWFsKG9iamVjdHMpIC8gbWF0aC5mYWN0b3JpYWwob2JqZWN0cyAtIHNlbGVjdGlvbnMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGNvbWJpbmF0aW9uKG9iamVjdHMsIHNlbGVjdGlvbnMpOgogICAgcmV0dXJuIG1hdGguZmFjdG9yaWFsKG9iamVjdHMpIC8gKG1hdGguZmFjdG9yaWFsKG9iamVjdHMgLSBzZWxlY3Rpb25zKSAqIG1hdGguZmFjdG9yaWFsKHNlbGVjdGlvbnMpKQoKCg==</text>
+        <text encoding="base64">ZGVmIGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEByZXF1ZXN0X2RlY29yYXRvcgo=</text>
+        <text encoding="base64">ZGVmIHBlcm11dGF0aW9uKG9iamVjdHMsIHNlbGVjdGlvbnMpOgogICAgcmV0dXJuIG1hdGguZmFjdG9yaWFsKG9iamVjdHMpIC8gbWF0aC5mYWN0b3JpYWwob2JqZWN0cyAtIHNlbGVjdGlvbnMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ0ludGVyZmFjZUludGVyYWN0aW9uKGFjdGlvbiwgaWQpCg==</text>
+        <text encoding="base64">ZGVmIGNvbWJpbmF0aW9uKG9iamVjdHMsIHNlbGVjdGlvbnMpOgogICAgcmV0dXJuIG1hdGguZmFjdG9yaWFsKG9iamVjdHMpIC8gKG1hdGguZmFjdG9yaWFsKG9iamVjdHMgLSBzZWxlY3Rpb25zKSAqIG1hdGguZmFjdG9yaWFsKHNlbGVjdGlvbnMpKQoKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbC5zdXAuc2V0dXAuc3JjLnBpbmcucGluZ0RhdGEgaW1wb3J0IFBpbmdEYXRhCg==</text>
+        <text encoding="base64">ICAgIEByZXF1ZXN0X2RlY29yYXRvcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbC5zdXAuc2V0dXAuc3JjLm1hbmFnZU5ldHdvcmsubWFuYWdlTmV0d29ya0RhdGEgaW1wb3J0IE1hbmFnZU5ldHdvcmtEYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ0ludGVyZmFjZUludGVyYWN0aW9uKGFjdGlvbiwgaWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBhZGFwdGVyLmVuY29kaW5nIGltcG9ydCBlbmNvZGVfYnNzaWQK</text>
+        <text encoding="base64">ZnJvbSBtb2RlbC5zdXAuc2V0dXAuc3JjLnBpbmcucGluZ0RhdGEgaW1wb3J0IFBpbmdEYXRhCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>wireless-net</last-search>
+      <last-search>upper</last-search>
       <last-offset />
-      <last-pattern>wireless-net</last-pattern>
+      <last-pattern>upper</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -259,6 +261,7 @@
         <entry>&quot;</entry>
         <entry encoding="base64">XDxuZXR3b3JrXD4=</entry>
         <entry>wireless-net</entry>
+        <entry>upper</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
@@ -272,6 +275,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
