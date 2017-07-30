@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1501435186618">
+      <file name="/Python Console" timestamp="1501438563909">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -67,12 +67,12 @@
         <mark key="]" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/homework/chaos-beast/MA120/statistics/statistical_functions.py" timestamp="1501435062686">
+      <file name="$USER_HOME$/Documents/homework/chaos-beast/MA120/statistics/statistical_functions.py" timestamp="1501438514859">
         <mark key="'" line="104" column="0" />
-        <mark key="[" line="171" column="15" />
-        <mark key="]" line="171" column="14" />
-        <mark key="." line="171" column="14" />
-        <mark key="^" line="171" column="14" />
+        <mark key="[" line="177" column="16" />
+        <mark key="]" line="178" column="43" />
+        <mark key="." line="178" column="43" />
+        <mark key="^" line="178" column="43" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/tornado/builder.py" timestamp="1490888769909">
         <mark key="[" line="33" column="43" />
