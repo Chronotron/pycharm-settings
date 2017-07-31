@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/setupMainMenuHandler.py" timestamp="1490985836507">
@@ -113,11 +113,13 @@
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="28" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/wirelessNetworkSetup/wirelessNetworkSetupData.py" timestamp="1501510285256">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/wirelessNetworkSetup/wirelessNetworkSetupData.py" timestamp="1501510722701">
+        <mark key="[" line="42" column="79" />
+        <mark key="]" line="42" column="78" />
+        <mark key="^" line="42" column="78" />
+        <mark key="." line="42" column="78" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/ipSettings/ipSettingsData.py" timestamp="1501510430407" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/presenter/setup/pingPresenter.py" timestamp="1490985580831">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="8" />
@@ -158,6 +160,7 @@
         <mark key="]" line="39" column="42" />
         <mark key="." line="39" column="42" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/setup/wiredConfigPresenter.py" timestamp="1501510539709" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/networkStatus/wirelessNetworkModel.py" timestamp="1490914481048">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="24" />
