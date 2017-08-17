@@ -14,7 +14,7 @@
         <mark key="." line="8" column="101" />
         <mark key="^" line="8" column="56" />
       </file>
-      <file name="/Python Console" timestamp="1501430592656">
+      <file name="/Python Console" timestamp="1502998932550">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -24,17 +24,31 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1502996992799">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/setup/userAuthenticationPresenter.py" timestamp="1502997717292" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/wirelessNetworkSetup/wirelessNetworkSetupContext.py" timestamp="1490911890163">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="13" column="74" />
         <mark key="^" line="13" column="74" />
         <mark key="." line="13" column="74" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/embeddedClock/offlineEmployeeAuthenticationPresenter.py" timestamp="1502924927579" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpiTest/presenter/embeddedClock/offlineEmployeeAuthenticationPresenterTest.py" timestamp="1502997092560">
+        <mark key="[" line="415" column="0" />
+        <mark key="]" line="415" column="0" />
+        <mark key="." line="415" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/embeddedClock/offlineEmployeeAuthenticationPresenter.py" timestamp="1502996828781" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/wirelessNetworkSetupHandler.py" timestamp="1490979273310">
         <mark key="[" line="22" column="97" />
         <mark key="]" line="26" column="8" />
         <mark key="." line="26" column="8" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpiTest/presenter/setup/userAuthenticationPresenterTest.py" timestamp="1502999552158">
+        <mark key="[" line="189" column="70" />
+        <mark key="]" line="189" column="70" />
+        <mark key="." line="189" column="70" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/presenter/setup/wirelessNetworkSetupPresenter.py" timestamp="1490984721639">
         <mark key="[" line="14" column="46" />
@@ -88,7 +102,7 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501510077062">
+      <file name="/Dummy.txt" timestamp="1502999832716">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -114,6 +128,7 @@
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="28" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/core/common/data/logOnData.py" timestamp="1502996742117" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/wirelessNetworkSetup/wirelessNetworkSetupData.py" timestamp="1501510722701">
         <mark key="[" line="42" column="79" />
         <mark key="]" line="42" column="78" />
@@ -151,6 +166,7 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/service/authenticationServiceImpl.py" timestamp="1502998240764" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/facade/platformFacade.py" timestamp="1491839955066">
         <mark key="[" line="51" column="8" />
         <mark key="]" line="51" column="31" />
@@ -160,7 +176,13 @@
         <mark key="]" line="39" column="42" />
         <mark key="." line="39" column="42" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/adapter/abstractFingerprintAdapter.py" timestamp="1502997952956" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/adapter/terminalUpdateAdapterActual.py" timestamp="1502987217386" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/common/decorator/facadeResponseDecorator.py" timestamp="1502999256671">
+        <mark key="[" line="93" column="44" />
+        <mark key="]" line="93" column="44" />
+        <mark key="." line="93" column="44" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/networkStatus/wirelessNetworkModel.py" timestamp="1490914481048">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="24" />
@@ -181,7 +203,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -226,7 +248,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>upper</text>
@@ -235,31 +257,31 @@
         <text encoding="base64">ICAgIHJldHVybiBib3VuZCh2YWx1ZSwgcmFuZ2UsIC0xKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIHBvcF9zdGFuZGFyZF9kZXZpYXRpb25fY29tcCh2YWx1ZXMpOgogICAgdmFsX3JhbmdlID0gc3RhdF9yYW5nZSh2YWx1ZXMpCiAgICBfbXUgPSBtdSh2YWx1ZXMpCiAgICBzdW1feF9wb3dlcl8yID0gcG93ZXJfc3VtKHZhbHVlcykKICAgIGxlZnRfc2lkZSA9IHN1bV94X3Bvd2VyXzIgLyB2YWxfcmFuZ2UKICAgIHJpZ2h0X3NpZGUgPSBtYXRoLnBvdyhfbXUsIDIpCiAgICByZXR1cm4gbWF0aC5zcXJ0KGxlZnRfc2lkZSAtIHJpZ2h0X3NpZGUpCgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCggZS5kZXNjcmlwdGlvbikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGZpbmRfZnJhY3RpbGUoc3Vic2NyaXB0LCBwYXJ0cywgc2FtcGxlc2l6ZSk6CiAgICByZXR1cm4gbWF0aC5jZWlsKChzdWJzY3JpcHQgLyBwYXJ0cykgKiBzYW1wbGVzaXplKQoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAnZG8gbm90IGhhdmUgYWNjZXNzJyBpbiByZXNwb25zZS5lcnJvckRlc2NyaXB0aW9uLmxvd2VyKCk6CiAgICAgICAgICAgICAgICByYWlzZSBQcmVzZW50YXRpb25FeGNlcHRpb24ocHJlc2VudGF0aW9uQ29uc3RhbnRzLlBFUk1JU1NJT05fREVOSUVELCByZXNwb25zZS5lcnJvckRlc2NyaXB0aW9uKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIG11KHZhbHVlcyk6CiAgICB2YWxfcmFuZ2UgPSBzdGF0X3JhbmdlKHZhbHVlcykKICAgIHN1bV94ID0gc3VtKHZhbHVlcykKICAgIHJldHVybiBzdW1feCAvIHZhbF9yYW5nZQoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBlbGlmICdkbyBub3QgaGF2ZSBhY2Nlc3MnIGluIHJlc3BvbnNlLmVycm9yRGVzY3JpcHRpb24ubG93ZXIoKToKICAgICAgICAgICAgIyAgICAgcmFpc2UgUHJlc2VudGF0aW9uRXhjZXB0aW9uKHByZXNlbnRhdGlvbkNvbnN0YW50cy5QRVJNSVNTSU9OX0RFTklFRCwgcmVzcG9uc2UuZXJyb3JEZXNjcmlwdGlvbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIG11KHZhbHVlcyk6CiAgICB2YWxfcmFuZ2UgPSBzdGF0X3JhbmdlKHZhbHVlcykKICAgIHN1bV94ID0gc3VtKHZhbHVlcykKICAgIHJldHVybiBzdW1feCAvIHZhbF9yYW5nZQoKCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB2YWx1ZSArIDAuNQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0Qmx1ZVNreV9nZXRMb2dPbkluZm9ybWF0aW9uX0VtcGxveWVlSWRBbmRCYWRnZVByZWZlcmVuY2Uoc2VsZik6CiAgICAgICAgIyBzZXR1cAogICAgICAgIHNlbGYudGVybWluYWxTdG9yYWdlRW11bGF0b3IuY29uZmlndXJlQ29tcGFueShzZWxmLl9jb21wYW55SWQsIHNlbGYuTU9DS19DT01QQU5ZX0RJU1BMQVlfTkFNRSkKICAgICAgICBzZWxmLnRlcm1pbmFsU3RvcmFnZUVtdWxhdG9yLmNvbmZpZ3VyZUVtcGxveWVlU2VhcmNoUHJlZmVyZW5jZShbRW1wbG95ZWVTZWFyY2hQcmVmZXJlbmNlVHlwZS5FbXBsb3llZUlkLnZhbHVlLCBFbXBsb3llZVNlYXJjaFByZWZlcmVuY2VUeXBlLkJhZGdlTnVtYmVyLnZhbHVlXSkKICAgICAgICBzZWxmLnRlcm1pbmFsU3RvcmFnZUVtdWxhdG9yLmVtdWxhdGVUZXJtaW5hbFN0b3JhZ2UoKQoKICAgICAgICAjIGV4ZXJjaXNlCiAgICAgICAgaW5mbyA9IHNlbGYucHJlc2VudGVyLmdldExvZ09uSW5mb3JtYXRpb24oc2VsZi5fY29tcGFueUlkKQoKICAgICAgICAjIHBvc3QtY29uZGl0aW9ucwogICAgICAgIHNlbGYuYXNzZXJ0SXNOb3ROb25lKGluZm8pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCgzLCBsZW4oaW5mbykpCgogICAgICAgIGNvbXBhbnlDb25maWcgPSBpbmZvWzFdCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChzZWxmLk1PQ0tfQ09NUEFOWV9ESVNQTEFZX05BTUUsIGNvbXBhbnlDb25maWcuc3RyQ29tcGFueURpc3BsYXlWYWx1ZSkKICAgICAgICBjb21wYW55VGltZVN0YW1wID0gY29tcGFueUNvbmZpZy5zdHJDb21wYW55VGltZXN0YW1wCiAgICAgICAgdHJ5OgogICAgICAgICAgICBkYXRldGltZS5zdHJwdGltZShjb21wYW55VGltZVN0YW1wLCBjb21tb25Db25zdGFudHMuREVGQVVMVF9EQVRFX1RJTUVfRk9STUFUX0ZPUl9DTElFTlQpCiAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgICAgIHNlbGYuZmFpbCgiVGltZXN0YW1wIGlzIG5vdCBpbiB0aGUgZm9ybWF0IHswfSIuZm9ybWF0KGNvbW1vbkNvbnN0YW50cy5ERUZBVUxUX0RBVEVfVElNRV9GT1JNQVRfRk9SX0NMSUVOVCkpCgogICAgICAgIGxvZ29uRGF0YSA9IGluZm9bMl0KICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlbGYuX2NvbXBhbnlJZCwgbG9nb25EYXRhLmdldENvbXBhbnlJZCgpKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobW9kZWxDb25zdGFudHMuTEFCRUxfSURfQkFER0VfTlVNQkVSLCBsb2dvbkRhdGEub2JqU2VsZWN0ZWRDb21wYW55Lm9iakN1c3RvbUZpZWxkQ29udHJvbE1vZGVsTG9nT25JZC5zdHJUZXh0KQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHBvcF9zdGFuZGFyZF9kZXZpYXRpb25fY29tcCh2YWx1ZXMpOgogICAgdmFsX3JhbmdlID0gc3RhdF9yYW5nZSh2YWx1ZXMpCiAgICBfbXUgPSBtdSh2YWx1ZXMpCiAgICBzdW1feF9wb3dlcl8yID0gcG93ZXJfc3VtKHZhbHVlcykKICAgIGxlZnRfc2lkZSA9IHN1bV94X3Bvd2VyXzIgLyB2YWxfcmFuZ2UKICAgIHJpZ2h0X3NpZGUgPSBtYXRoLnBvdyhfbXUsIDIpCiAgICByZXR1cm4gbWF0aC5zcXJ0KGxlZnRfc2lkZSAtIHJpZ2h0X3NpZGUpCgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGEK</text>
+        <text encoding="base64">ZGVmIGZpbmRfZnJhY3RpbGUoc3Vic2NyaXB0LCBwYXJ0cywgc2FtcGxlc2l6ZSk6CiAgICByZXR1cm4gbWF0aC5jZWlsKChzdWJzY3JpcHQgLyBwYXJ0cykgKiBzYW1wbGVzaXplKQoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHBlcm11dGF0aW9uKG9iamVjdHMsIHNlbGVjdGlvbnMpOgogICAgcmV0dXJuIG1hdGguZmFjdG9yaWFsKG9iamVjdHMpIC8gbWF0aC5mYWN0b3JpYWwob2JqZWN0cyAtIHNlbGVjdGlvbnMpCg==</text>
+        <text encoding="base64">ZGVmIG11KHZhbHVlcyk6CiAgICB2YWxfcmFuZ2UgPSBzdGF0X3JhbmdlKHZhbHVlcykKICAgIHN1bV94ID0gc3VtKHZhbHVlcykKICAgIHJldHVybiBzdW1feCAvIHZhbF9yYW5nZQoKCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
