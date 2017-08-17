@@ -14,7 +14,7 @@
         <mark key="." line="8" column="101" />
         <mark key="^" line="8" column="56" />
       </file>
-      <file name="/Python Console" timestamp="1503004421521">
+      <file name="/Python Console" timestamp="1503005341313">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -90,7 +90,7 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502999832716">
+      <file name="/Dummy.txt" timestamp="1503004917749">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -100,11 +100,11 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpiTest/presenter/setup/terminalSettingsPresenterTest.py" timestamp="1503004372348">
-        <mark key="[" line="208" column="53" />
-        <mark key="]" line="214" column="65" />
-        <mark key="." line="214" column="65" />
-        <mark key="^" line="214" column="65" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpiTest/presenter/setup/terminalSettingsPresenterTest.py" timestamp="1503005400763">
+        <mark key="[" line="246" column="19" />
+        <mark key="]" line="246" column="19" />
+        <mark key="." line="246" column="19" />
+        <mark key="^" line="215" column="65" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/manageNetworkHandler.py" timestamp="1490979301063">
         <mark key="[" line="6" column="0" />
@@ -129,6 +129,9 @@
         <mark key="^" line="42" column="78" />
         <mark key="." line="42" column="78" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/views/terminalSettings/terminalSettingsContext.py" timestamp="1503004681395">
+        <mark key="[" line="5" column="50" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/presenter/setup/pingPresenter.py" timestamp="1490985580831">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="8" />
@@ -150,7 +153,9 @@
         <mark key="." line="48" column="7" />
         <mark key="^" line="48" column="7" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/views/terminalSettings/terminalSettingsData.py" timestamp="1503003967922" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/views/terminalSettings/terminalSettingsData.py" timestamp="1503004762420">
+        <mark key="[" line="13" column="35" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/apiNetworkInterfaceHandler.py" timestamp="1490883378320">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="12" />
@@ -179,7 +184,13 @@
         <mark key="]" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/setup/terminalSettingsPresenter.py" timestamp="1503004356602" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/setup/terminalSettingsPresenter.py" timestamp="1503005334429">
+        <mark key="'" line="35" column="117" />
+        <mark key="[" line="35" column="117" />
+        <mark key="]" line="35" column="117" />
+        <mark key="." line="35" column="117" />
+        <mark key="^" line="35" column="117" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="15" column="34" filename="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/ipSettings/ipSettingsData.py" />
@@ -192,10 +203,11 @@
       <jump line="57" column="52" filename="$USER_HOME$/Work/tcp-tl-70/server/src/adapter/networkInterfaceAdapterActual.py" />
       <jump line="55" column="4" filename="$USER_HOME$/Work/tcp-tl-70/server/src/adapter/networkInterfaceAdapterActual.py" />
       <jump line="105" column="0" filename="$USER_HOME$/Documents/homework/chaos-beast/MA120/statistics/statistical_functions.py" />
+      <jump line="35" column="117" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/setup/terminalSettingsPresenter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>N</text>
+        <text>True</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -240,10 +252,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>upper</text>
+        <text encoding="base64">XDxpZlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiB0ZXN0Qmx1ZVNreV9zYXZlKHNlbGYpOgogICAgICAgICMgc2V0LXVwCiAgICAgICAgdGVybWluYWxTZXR0aW5nc0NvbmZpZyA9IHsidXBkYXRlT25Cb290IjogVHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjaGVja0ZvclVwZGF0ZXMiOiBUcnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInV0Y09mZnNldE1pbnV0ZXMiOiAzMDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZGF5c09mV2VlayI6IFsnVHVlc2RheScsICdUaHVyc2RheScsICdTYXR1cmRheSddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImFjdHVhbFRpbWUiOiAnMTI6MDEnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInRpbWV6b25lSWQiOiAnQ2VudHJhbCBTdGFuZGFyZCBUaW1lJ30KICAgICAgICB0ZXJtaW5hbFNldHRpbmdzRGF0YSA9IFRlcm1pbmFsU2V0dGluZ3NEYXRhKEZhbHNlLCBGYWNhZGVSZXNwb25zZURlY29yYXRvcihzZWxmLnByZXNlbnRlci5fcGxhdGZvcm1GYWNhZGUuZ2V0QWxsVGltZXpvbmVOYW1lcygpKS5nZXRSZXR1cm5WYWx1ZSgpLCB0ZXJtaW5hbFNldHRpbmdzQ29uZmlnKQoKICAgICAgICAjIG1pZC1leGVyY2lzZQogICAgICAgIHNhdmVkID0gc2VsZi5wcmVzZW50ZXIuc2F2ZSh0ZXJtaW5hbFNldHRpbmdzRGF0YSkKCiAgICAgICAgIyBtaWQtcG9zdC1jb25kaXRpb25zCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHNhdmVkKQoKICAgICAgICAjIGV4ZXJjaXNlCiAgICAgICAgY29udGV4dCA9IHNlbGYucHJlc2VudGVyLmdldFRlcm1pbmFsU2V0dGluZ3NDb250ZXh0KCkKCiAgICAgICAgIyBwb3N0LWNvbmRpdGlvbnMKICAgICAgICBzZWxmLmFzc2VydElzTm90Tm9uZShjb250ZXh0KQoKICAgICAgICBjb25maWcgPSBjb250ZXh0Lm9ialRlcm1pbmFsU2V0dGluZ3NDb25maWcKICAgICAgICBzZWxmLmFzc2VydElzTm90Tm9uZShjb25maWcpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChtb2RlbENvbnN0YW50cy5NQU5VQUxfVVBEQVRFLCBjb25maWcuc3RyTWFudWFsVXBkYXRlKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobW9kZWxDb25zdGFudHMuVEVSTUlOQUxfU0VUVElOR1MsIGNvbmZpZy5zdHJUaXRsZSkKCiAgICAgICAgZGF0YSA9IGNvbnRleHQub2JqVGVybWluYWxTZXR0aW5nc0RhdGEKICAgICAgICBzZWxmLmFzc2VydElzTm90Tm9uZShkYXRhKQogICAgICAgIHNlbGYuYXNzZXJ0SXNOb3ROb25lKGRhdGEub2JqU3NoU2V0dGluZ3NEYXRhKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobW9kZWxDb25zdGFudHMuRU5BQkxFX1NTSCwgZGF0YS5vYmpTc2hTZXR0aW5nc0RhdGEuc3RyTGFiZWwpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChwcmVzZW50YXRpb25Db25zdGFudHMuRElTQUJMRV9TU0hfTUVTU0FHRSwgZGF0YS5vYmpTc2hTZXR0aW5nc0RhdGEuc3RyTWVzc2FnZSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKDcsIGxlbihkYXRhLmFyckJvb2xlYW5JbnB1dERheXNPZldlZWspKQogICAgICAgIHNlbGVjdGVkRGF5cyA9IFtkYXkuc3RyVGV4dCBmb3IgZGF5IGluIGRhdGEuYXJyQm9vbGVhbklucHV0RGF5c09mV2VlayBpZiBkYXkuYmxuVmFsdWVdCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCgzLCBsZW4oc2VsZWN0ZWREYXlzKSkKICAgICAgICBzZWxmLmFzc2VydFRydWUoJ1R1ZXNkYXknIGluIHNlbGVjdGVkRGF5cykKICAgICAgICBzZWxmLmFzc2VydFRydWUoJ1RodXJzZGF5JyBpbiBzZWxlY3RlZERheXMpCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKCdTYXR1cmRheScgaW4gc2VsZWN0ZWREYXlzKQogICAgICAgIHNlbGYuYXNzZXJ0SXNOb3ROb25lKGRhdGEub2JqQm9vbGVhbklucHV0Q2hlY2tGb3JVcGRhdGVzKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShkYXRhLm9iakJvb2xlYW5JbnB1dENoZWNrRm9yVXBkYXRlcy5ibG5WYWx1ZSkKICAgICAgICBzZWxmLmFzc2VydElzTm90Tm9uZShkYXRhLm9iakJvb2xlYW5JbnB1dFVwZGF0ZU9uQm9vdCkKICAgICAgICBzZWxmLmFzc2VydFRydWUoZGF0YS5vYmpCb29sZWFuSW5wdXRVcGRhdGVPbkJvb3QuYmxuVmFsdWUpCiAgICAgICAgc2VsZi5hc3NlcnRJc05vdE5vbmUoZGF0YS5vYmpUaW1lSW5wdXRVcGRhdGVUaW1lKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZGF0YS5vYmpUaW1lSW5wdXRVcGRhdGVUaW1lLnRpbVZhbHVlLCAnMTI6MDEnKQogICAgICAgIHNlbGYuYXNzZXJ0SXNOb3ROb25lKGRhdGEub2JqU2VsZWN0SW5wdXRUaW1lWm9uZSkKICAgICAgICBzZWxmLmFzc2VydElzTm90Tm9uZShkYXRhLm9ialNlbGVjdElucHV0VGltZVpvbmUuYXJyU3RyaW5nU2VsZWN0SXRlbU9wdGlvbnMpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChkYXRhLm9ialNlbGVjdElucHV0VGltZVpvbmUuc3RyVmFsdWUsICdDZW50cmFsIFN0YW5kYXJkIFRpbWUnKQo=</text>
@@ -280,12 +292,12 @@
       </register>
     </registers>
     <search>
-      <last-search>upper</last-search>
+      <last-search encoding="base64">XDxpZlw+</last-search>
       <last-offset />
-      <last-pattern>upper</last-pattern>
+      <last-pattern encoding="base64">XDxpZlw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -293,6 +305,7 @@
         <entry>&quot;</entry>
         <entry encoding="base64">XDxuZXR3b3JrXD4=</entry>
         <entry>wireless-net</entry>
+        <entry encoding="base64">XDxpZlw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
