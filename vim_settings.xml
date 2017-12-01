@@ -122,11 +122,11 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/B101/experiments.py" timestamp="1512161452932">
-        <mark key="[" line="56" column="47" />
-        <mark key="]" line="69" column="49" />
-        <mark key="." line="69" column="49" />
-        <mark key="^" line="69" column="49" />
+      <file name="$USER_HOME$/PycharmProjects/B101/experiments.py" timestamp="1512162234005">
+        <mark key="[" line="60" column="22" />
+        <mark key="]" line="60" column="60" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="59" column="57" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/testMainMenuHandler.py" timestamp="1490883285823">
         <mark key="[" line="9" column="0" />
@@ -171,7 +171,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGcK</text>
+        <text encoding="base64">ICAgIHByaW50ICdGcmVxdWVuY3kgSDoge30nLmZvcm1hdChjb3VudEggLyBsZW4ocG9wdWxhdGlvbikpCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -222,7 +222,7 @@
         <text>upper</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Z2VuZXJhdGlvbiA9IHNwYXduR2VuZXJhdGlvbigxKQo=</text>
+        <text encoding="base64">ICAgIHByaW50ICdGcmVxdWVuY3kgSDoge30nLmZvcm1hdChjb3VudEggLyBsZW4ocG9wdWxhdGlvbikpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGcK</text>
