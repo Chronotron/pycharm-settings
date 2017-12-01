@@ -122,11 +122,11 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/B101/experiments.py" timestamp="1512162234005">
-        <mark key="[" line="60" column="22" />
-        <mark key="]" line="60" column="60" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="59" column="57" />
+      <file name="$USER_HOME$/PycharmProjects/B101/experiments.py" timestamp="1512163176035">
+        <mark key="[" line="71" column="21" />
+        <mark key="]" line="71" column="21" />
+        <mark key="." line="71" column="21" />
+        <mark key="^" line="71" column="28" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/testMainMenuHandler.py" timestamp="1490883285823">
         <mark key="[" line="9" column="0" />
@@ -170,8 +170,8 @@
       <jump line="105" column="0" filename="$USER_HOME$/Documents/homework/chaos-beast/MA120/statistics/statistical_functions.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ICdGcmVxdWVuY3kgSDoge30nLmZvcm1hdChjb3VudEggLyBsZW4ocG9wdWxhdGlvbikpCg==</text>
+      <register name="&quot;" type="4">
+        <text>population</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -216,7 +216,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>randomSelection</text>
+        <text>population</text>
       </register>
       <register name="/" type="4">
         <text>upper</text>
