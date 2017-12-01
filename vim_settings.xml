@@ -122,10 +122,11 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/B101/experiments.py" timestamp="1512160865201">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/B101/experiments.py" timestamp="1512161452932">
+        <mark key="[" line="56" column="47" />
+        <mark key="]" line="69" column="49" />
+        <mark key="." line="69" column="49" />
+        <mark key="^" line="69" column="49" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/testMainMenuHandler.py" timestamp="1490883285823">
         <mark key="[" line="9" column="0" />
@@ -170,7 +171,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50IGxlbihwb3B1bGF0aW9uKQo=</text>
+        <text encoding="base64">ICAgIGcK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -215,40 +216,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>numHH</text>
+        <text>randomSelection</text>
       </register>
       <register name="/" type="4">
         <text>upper</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50ICdudW1ISDoge30nLmZvcm1hdChudW1ISCkK</text>
+        <text encoding="base64">Z2VuZXJhdGlvbiA9IHNwYXduR2VuZXJhdGlvbigxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50IGxlbihwb3B1bGF0aW9uKQo=</text>
+        <text encoding="base64">ICAgIGcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ICd0b3RhbDoge30nLmZvcm1hdChudW1ISCArIG51bUhoICsgbnVtaGgpCg==</text>
+        <text encoding="base64">Z2VuMSA9IHNwYXduR2VuZXJhdGlvbignMScpCmdlbjIgPSBzcGF3bkdlbmVyYXRpb24oJzInLCByYW5kb21TZWxlY3Rpb24oZ2VuMSkpCmdlbjMgPSBzcGF3bkdlbmVyYXRpb24oJzInLCByYW5kb21TZWxlY3Rpb24oZ2VuMikpCmdlbjQgPSBzcGF3bkdlbmVyYXRpb24oJzInLCByYW5kb21TZWxlY3Rpb24oZ2VuMykpCmdlbjUgPSBzcGF3bkdlbmVyYXRpb24oJzInLCByYW5kb21TZWxlY3Rpb24oZ2VuNCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG51bUhoID0gY291bnRJbmRpdmlkdWFscyhpbmRpdmlkdWFscywgJ0gnLCAnSCcpCg==</text>
+        <text encoding="base64">ICAgIHByaW50IGxlbihwb3B1bGF0aW9uKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG51bUhICiAgICBudW1IaAogICAgbnVtCg==</text>
+        <text encoding="base64">ICAgIHByaW50ICd0b3RhbDoge30nLmZvcm1hdChudW1ISCArIG51bUhoICsgbnVtaGgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIGluZGl2aWR1YWxzOgogICAgICAgIHByaW50IGkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG51bUhoID0gY291bnRJbmRpdmlkdWFscyhpbmRpdmlkdWFscywgJ0gnLCAnSCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbihwb3B1bGF0aW9uKSA+IDA6CiAgICAgICAgcmV0dXJuIGdlbmVyYXRlSW5kaXZpZHVhbHMocG9wdWxhdGlvbiwgaW5kaXZpZHVhbHMpCg==</text>
+        <text encoding="base64">ICAgIG51bUhICiAgICBudW1IaAogICAgbnVtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7Zmlyc3QsIHBvcHVsYXRpb259Cg==</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIGluZGl2aWR1YWxzOgogICAgICAgIHByaW50IGkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
