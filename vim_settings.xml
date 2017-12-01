@@ -122,11 +122,11 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/B101/experiments.py" timestamp="1512163176035">
-        <mark key="[" line="71" column="21" />
-        <mark key="]" line="71" column="21" />
-        <mark key="." line="71" column="21" />
-        <mark key="^" line="71" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/B101/experiments.py" timestamp="1512164798281">
+        <mark key="[" line="87" column="56" />
+        <mark key="]" line="61" column="40" />
+        <mark key="." line="61" column="40" />
+        <mark key="^" line="61" column="40" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/testMainMenuHandler.py" timestamp="1490883285823">
         <mark key="[" line="9" column="0" />
@@ -170,8 +170,8 @@
       <jump line="105" column="0" filename="$USER_HOME$/Documents/homework/chaos-beast/MA120/statistics/statistical_functions.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>population</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50ICd0b3RhbDoge30nCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -222,34 +222,34 @@
         <text>upper</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50ICdGcmVxdWVuY3kgSDoge30nLmZvcm1hdChjb3VudEggLyBsZW4ocG9wdWxhdGlvbikpCg==</text>
+        <text encoding="base64">ICAgICAgICBwb3B1bGF0aW9uLmFwcGVuZChpWydhJ10pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGcK</text>
+        <text encoding="base64">ICAgIHByaW50ICd0b3RhbDoge30nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2VuMSA9IHNwYXduR2VuZXJhdGlvbignMScpCmdlbjIgPSBzcGF3bkdlbmVyYXRpb24oJzInLCByYW5kb21TZWxlY3Rpb24oZ2VuMSkpCmdlbjMgPSBzcGF3bkdlbmVyYXRpb24oJzInLCByYW5kb21TZWxlY3Rpb24oZ2VuMikpCmdlbjQgPSBzcGF3bkdlbmVyYXRpb24oJzInLCByYW5kb21TZWxlY3Rpb24oZ2VuMykpCmdlbjUgPSBzcGF3bkdlbmVyYXRpb24oJzInLCByYW5kb21TZWxlY3Rpb24oZ2VuNCkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50IHNlbGVjdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaW50IGxlbihwb3B1bGF0aW9uKQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBvcHVsYXRpb24gPSBnZW5lcmF0ZVBvcHVsYXRpb24oaW5kaXZpZHVhbHMpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50ICd0b3RhbDoge30nLmZvcm1hdChudW1ISCArIG51bUhoICsgbnVtaGgpCg==</text>
+        <text encoding="base64">ICAgICMgaW5kaXZpZHVhbHMgPSBuYXR1cmFsU2VsZWN0aW9uKGluZGl2aWR1YWxzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBpCg==</text>
+        <text encoding="base64">ICAgICMgaW5kaXZpZHVhbHMgPSBuYXR1cmFsU2VsZWN0aW9uKGluZGl2aWR1YWxzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG51bUhoID0gY291bnRJbmRpdmlkdWFscyhpbmRpdmlkdWFscywgJ0gnLCAnSCcpCg==</text>
+        <text encoding="base64">ICAgIHByaW50IHBvcHVsYXRpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG51bUhICiAgICBudW1IaAogICAgbnVtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIGluZGl2aWR1YWxzOgogICAgICAgIHByaW50IGkK</text>
+        <text encoding="base64">ICAgIGcK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
