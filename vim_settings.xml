@@ -3,135 +3,32 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1512160338113">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-      </file>
-      <file name="/fragment.py" timestamp="1512160366295">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1490910426902">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/handlerHelper.py" timestamp="1490888614610">
         <mark key="[" line="8" column="101" />
         <mark key="]" line="8" column="101" />
         <mark key="." line="8" column="101" />
         <mark key="^" line="8" column="56" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/presenter/setup/pingPresenter.py" timestamp="1490985580831">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="8" />
-        <mark key="." line="14" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/homework/chaos-beast/MA120/probability/probality_functions.py" timestamp="1499558174238">
-        <mark key="[" line="48" column="4" />
-        <mark key="]" line="48" column="7" />
-        <mark key="." line="48" column="7" />
-        <mark key="^" line="48" column="7" />
-      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/setupMainMenuHandler.py" timestamp="1490985836507">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="21" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/abstractRequestHandler.py" timestamp="1490882488889">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="22" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/manageNetworkHandler.py" timestamp="1490979301063">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/wirelessSetupHandler.py" timestamp="1490883329724">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/pingHandler.py" timestamp="1490985839225">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/tornado/sudo-python.sh" timestamp="1490886406755">
+      <file name="/Python Console" timestamp="1512160338113">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/apiNetworkInterfaceHandler.py" timestamp="1490883378320">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="12" />
-        <mark key="." line="18" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/homework/chaos-beast/MA120/statistics/statistical_functions.py" timestamp="1501438514859">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="177" column="16" />
-        <mark key="]" line="178" column="43" />
-        <mark key="." line="178" column="43" />
-        <mark key="^" line="178" column="43" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/tornado/builder.py" timestamp="1490888769909">
-        <mark key="[" line="33" column="43" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/cameraTestHandler.py" timestamp="1490883336980">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/tornado/server.py" timestamp="1490887263004">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/adapter/networkInterfaceAdapterTest.py" timestamp="1490910572050">
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1500842656867">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/presenter/setup/wirelessNetworkSetupPresenter.py" timestamp="1490984721639">
-        <mark key="[" line="14" column="46" />
-        <mark key="]" line="14" column="49" />
-        <mark key="." line="14" column="49" />
-        <mark key="^" line="14" column="49" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/adapter/abstractNetworkInterfaceAdapter.py" timestamp="1490914572033">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/wiredSetupHandler.py" timestamp="1490883309916">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="21" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/wirelessNetworkSetup/wirelessNetworkSetupData.py" timestamp="1490911854361">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="28" />
-        <mark key="^" line="16" column="28" />
-        <mark key="." line="16" column="28" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/badgeTestHandler.py" timestamp="1490883343100">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/B101/experiments.py" timestamp="1512164798281">
-        <mark key="[" line="87" column="56" />
-        <mark key="]" line="61" column="40" />
-        <mark key="." line="61" column="40" />
-        <mark key="^" line="61" column="40" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/testMainMenuHandler.py" timestamp="1490883285823">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1512160366295">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1490910426902">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/wirelessNetworkSetup/wirelessNetworkSetupContext.py" timestamp="1490911890163">
         <mark key="[" line="10" column="22" />
@@ -144,10 +41,22 @@
         <mark key="]" line="26" column="8" />
         <mark key="." line="26" column="8" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/networkStatus/wirelessNetworkModel.py" timestamp="1490914481048">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/presenter/setup/wirelessNetworkSetupPresenter.py" timestamp="1490984721639">
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="49" />
+        <mark key="." line="14" column="49" />
+        <mark key="^" line="14" column="49" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/B101/experiments.py" timestamp="1512164798281">
+        <mark key="[" line="87" column="56" />
+        <mark key="]" line="61" column="40" />
+        <mark key="." line="61" column="40" />
+        <mark key="^" line="61" column="40" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/adapter/networkInterfaceAdapterTest.py" timestamp="1490910572050">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/ipSettings/ipSettingsData.py" timestamp="1490891479495">
         <mark key="'" line="15" column="34" />
@@ -155,6 +64,103 @@
         <mark key="]" line="15" column="83" />
         <mark key="." line="15" column="83" />
         <mark key="^" line="15" column="83" />
+      </file>
+      <file name="$USER_HOME$/Documents/homework/chaos-beast/MA120/statistics/statistical_functions.py" timestamp="1501438514859">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="177" column="16" />
+        <mark key="]" line="178" column="43" />
+        <mark key="." line="178" column="43" />
+        <mark key="^" line="178" column="43" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/tornado/sudo-python.sh" timestamp="1490886406755">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/wiredSetupHandler.py" timestamp="1490883309916">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/abstractRequestHandler.py" timestamp="1490882488889">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/wirelessSetupHandler.py" timestamp="1490883329724">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/resources/presentationConstants.py" timestamp="1513619037407">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1513619032091">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/tornado/builder.py" timestamp="1490888769909">
+        <mark key="[" line="33" column="43" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/cameraTestHandler.py" timestamp="1490883336980">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/manageNetworkHandler.py" timestamp="1490979301063">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/pingHandler.py" timestamp="1490985839225">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/wirelessNetworkSetup/wirelessNetworkSetupData.py" timestamp="1490911854361">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="28" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="16" column="28" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/presenter/setup/pingPresenter.py" timestamp="1490985580831">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="8" />
+        <mark key="." line="14" column="8" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/tornado/server.py" timestamp="1490887263004">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/homework/chaos-beast/MA120/probability/probality_functions.py" timestamp="1499558174238">
+        <mark key="[" line="48" column="4" />
+        <mark key="]" line="48" column="7" />
+        <mark key="." line="48" column="7" />
+        <mark key="^" line="48" column="7" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/adapter/abstractNetworkInterfaceAdapter.py" timestamp="1490914572033">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/apiNetworkInterfaceHandler.py" timestamp="1490883378320">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="12" />
+        <mark key="." line="18" column="12" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/badgeTestHandler.py" timestamp="1490883343100">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/networkStatus/wirelessNetworkModel.py" timestamp="1490914481048">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -219,7 +225,7 @@
         <text>population</text>
       </register>
       <register name="/" type="4">
-        <text>upper</text>
+        <text>In progress</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwb3B1bGF0aW9uLmFwcGVuZChpWydhJ10pCg==</text>
@@ -256,9 +262,9 @@
       </register>
     </registers>
     <search>
-      <last-search>upper</last-search>
+      <last-search>In progress</last-search>
       <last-offset />
-      <last-pattern>upper</last-pattern>
+      <last-pattern>In progress</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -270,6 +276,7 @@
         <entry encoding="base64">XDxuZXR3b3JrXD4=</entry>
         <entry>wireless-net</entry>
         <entry>upper</entry>
+        <entry>In progress</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
@@ -286,6 +293,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
