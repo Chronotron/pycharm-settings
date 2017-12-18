@@ -53,6 +53,12 @@
         <mark key="." line="61" column="40" />
         <mark key="^" line="61" column="40" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/bootCalendar.py" timestamp="1513636991650">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/adapter/networkInterfaceAdapterTest.py" timestamp="1490910572050">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="6" column="0" />
@@ -176,8 +182,8 @@
       <jump line="105" column="0" filename="$USER_HOME$/Documents/homework/chaos-beast/MA120/statistics/statistical_functions.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ICd0b3RhbDoge30nCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -222,7 +228,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>population</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>In progress</text>
@@ -296,6 +302,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
