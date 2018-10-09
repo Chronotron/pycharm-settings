@@ -24,12 +24,12 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/websocket/request/fingerprintRequest.py" timestamp="1539104133567">
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/websocket/request/fingerprintRequest.py" timestamp="1539105468242">
         <mark key="'" line="167" column="92" />
-        <mark key="[" line="154" column="131" />
+        <mark key="[" line="153" column="0" />
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
-        <mark key="^" line="153" column="11" />
+        <mark key="^" line="153" column="58" />
       </file>
       <file name="/fragment.py" timestamp="1512160366295">
         <mark key="[" line="0" column="0" />
@@ -114,7 +114,7 @@
         <mark key="^" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539103840177">
+      <file name="/Dummy.txt" timestamp="1539105309273">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -173,8 +173,13 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/embeddedClock/employeeAuthenticationPresenter.py" timestamp="1539103821981" />
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/adapter/abstractFingerprintAdapter.py" timestamp="1539103838045" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/embeddedClock/employeeAuthenticationPresenter.py" timestamp="1539105353958">
+        <mark key="'" line="56" column="11" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/adapter/abstractFingerprintAdapter.py" timestamp="1539104465670" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/networkStatus/wirelessNetworkModel.py" timestamp="1490914481048">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="24" />
@@ -199,10 +204,13 @@
       <jump line="55" column="4" filename="$USER_HOME$/Work/tcp-tl-70/server/src/adapter/networkInterfaceAdapterActual.py" />
       <jump line="105" column="0" filename="$USER_HOME$/Documents/homework/chaos-beast/MA120/statistics/statistical_functions.py" />
       <jump line="167" column="92" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/websocket/request/fingerprintRequest.py" />
+      <jump line="77" column="11" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/embeddedClock/employeeAuthenticationPresenter.py" />
+      <jump line="41" column="8" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/embeddedClock/employeeAuthenticationPresenter.py" />
+      <jump line="56" column="11" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/embeddedClock/employeeAuthenticationPresenter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fYmlvbWV0cmljU3BlY0RhdGEuc2hvdWxkU2tpcFZlcmlmaWNhdGlvbigpOgogICAgICAgICAgICAgICAgc2VsZi5fc2VuZEJpb21ldHJpY1dlYlNvY2tldE1lc3NhZ2UoaXNTdWNjZXNzPVRydWUsIG1lc3NhZ2U9cHJlc2VudGF0aW9uQ29uc3RhbnRzLlZFUklGSUNBVElPTl9TVUNDRVNTLCByZXN1bHQ9Tm9uZSkKICAgICAgICAgICAgICAgIGxvZ2dpbmcuaW5mbygiU2tpcHBpbmcgZW1wbG95ZWUgezB9IGJpb21ldHJpYyB2ZXJpZmljYXRpb24iLmZvcm1hdChzZWxmLl9iaW9tZXRyaWNTcGVjRGF0YS5zdHJJZCkpCiAgICAgICAgICAgICAgICByZXR1cm4KCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -250,46 +258,46 @@
         <text>strBiometricSpecJson()</text>
       </register>
       <register name="/" type="4">
-        <text>In progress</text>
+        <text encoding="base64">XDxpc09ubGluZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fc2VuZEJpb21ldHJpY1dlYlNvY2tldE1lc3NhZ2UoaXNTdWNjZXNzPVRydWUsIG1lc3NhZ2U9bWVzc2FnZSwgcmVzdWx0PU5vbmUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fYmlvbWV0cmljU3BlY0RhdGEuc2hvdWxkU2tpcFZlcmlmaWNhdGlvbigpOgogICAgICAgICAgICAgICAgc2VsZi5fc2VuZEJpb21ldHJpY1dlYlNvY2tldE1lc3NhZ2UoaXNTdWNjZXNzPVRydWUsIG1lc3NhZ2U9cHJlc2VudGF0aW9uQ29uc3RhbnRzLlZFUklGSUNBVElPTl9TVUNDRVNTLCByZXN1bHQ9Tm9uZSkKICAgICAgICAgICAgICAgIGxvZ2dpbmcuaW5mbygiU2tpcHBpbmcgZW1wbG95ZWUgezB9IGJpb21ldHJpYyB2ZXJpZmljYXRpb24iLmZvcm1hdChzZWxmLl9iaW9tZXRyaWNTcGVjRGF0YS5zdHJJZCkpCiAgICAgICAgICAgICAgICByZXR1cm4KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fYmlvbWV0cmljU3BlY0RhdGEuc2hvdWxkU2tpcFZlcmlmaWNhdGlvbigpOgogICAgICAgICAgICAgICAgc2VsZi5fc2VuZEJpb21ldHJpY1dlYlNvY2tldE1lc3NhZ2UoaXNTdWNjZXNzPVRydWUsIG1lc3NhZ2U9cHJlc2VudGF0aW9uQ29uc3RhbnRzLlZFUklGSUNBVElPTl9TVUNDRVNTLCByZXN1bHQ9Tm9uZSkKICAgICAgICAgICAgICAgIGxvZ2dpbmcuaW5mbygiU2tpcHBpbmcgZW1wbG95ZWUgezB9IGJpb21ldHJpYyB2ZXJpZmljYXRpb24iLmZvcm1hdChzZWxmLl9iaW9tZXRyaWNTcGVjRGF0YS5zdHJJZCkpCiAgICAgICAgICAgICAgICByZXR1cm4KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfc2hvdWxkU2tpcFZlcmlmaWNhdGlvbihzZWxmKToKICAgICAgICBzaG91bGRBc2tGb3JGaW5nZXJwcmludFZlcmlmaWNhdGlvbiA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBpc09ubGluZSA9IHNlbGYuX2FwcGxpY2F0aW9uQ29udGV4dC5pc0FwcGxpY2F0aW9uQ29ubmVjdGVkKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fc2hvdWxkU2tpcFZlcmlmaWNhdGlvbigpOgogICAgICAgICAgICAgICAgc2VsZi5fc2VuZEJpb21ldHJpY1dlYlNvY2tldE1lc3NhZ2UoaXNTdWNjZXNzPVRydWUsIG1lc3NhZ2U9cHJlc2VudGF0aW9uQ29uc3RhbnRzLlZFUklGSUNBVElPTl9TVUNDRVNTLCByZXN1bHQ9Tm9uZSkKICAgICAgICAgICAgICAgIGxvZ2dpbmcuaW5mbygiU2tpcHBpbmcgZW1wbG95ZWUgezB9IGJpb21ldHJpYyB2ZXJpZmljYXRpb24iLmZvcm1hdChzZWxmLl9iaW9tZXRyaWNTcGVjRGF0YS5zdHJJZCkpCiAgICAgICAgICAgICAgICByZXR1cm4KCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc09ubGluZToKICAgICAgICAgICAgc2VsZi5faW5pdGlhbGl6ZUF1dGhlbnRpY2F0aW9uU2VydmljZShiaW9tZXRyaWNTcGVjRGF0YS5pbnRDb21wYW55SWQpCiAgICAgICAgICAgIHNlbGYuX3VubG9ja0VtcGxveWVlU2Vzc2lvbihiaW9tZXRyaWNTcGVjRGF0YS5zdHJTZXNzaW9uSWQpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCdObyBuZWVkIHRvIHVubG9jayBlbXBsb3llZSBzZXNzaW9uIGluIG9mZmxpbmUgbW9kZS4nKQoK</text>
       </register>
-      <register name="6" type="8">
-        <text>message</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50ICd0b3RhbDoge30nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fYmlvbWV0cmljU3BlY0RhdGEuc2hvdWxkU2tpcFZlcmlmaWNhdGlvbigpOgogICAgICAgICAgICAgICAgc2VsZi5fc2VuZEJpb21ldHJpY1dlYlNvY2tldE1lc3NhZ2UoaXNTdWNjZXNzPVRydWUsIG1lc3NhZ2U9cHJlc2VudGF0aW9uQ29uc3RhbnRzLlZFUklGSUNBVElPTl9TVUNDRVNTLCByZXN1bHQ9Tm9uZSkKICAgICAgICAgICAgICAgIGxvZ2dpbmcuaW5mbygiU2tpcHBpbmcgZW1wbG95ZWUgezB9IGJpb21ldHJpYyB2ZXJpZmljYXRpb24iLmZvcm1hdChzZWxmLl9iaW9tZXRyaWNTcGVjRGF0YS5zdHJJZCkpCiAgICAgICAgICAgICAgICByZXR1cm4KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50IHNlbGVjdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50IGxlbihwb3B1bGF0aW9uKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfc2hvdWxkU2tpcFZlcmlmaWNhdGlvbihzZWxmKToKICAgICAgICBzaG91bGRBc2tGb3JGaW5nZXJwcmludFZlcmlmaWNhdGlvbiA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>In progress</last-search>
+      <last-search encoding="base64">XDxpc09ubGluZVw+</last-search>
       <last-offset />
-      <last-pattern>In progress</last-pattern>
+      <last-pattern encoding="base64">XDxpc09ubGluZVw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -302,6 +310,7 @@
         <entry>wireless-net</entry>
         <entry>upper</entry>
         <entry>In progress</entry>
+        <entry encoding="base64">XDxpc09ubGluZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
