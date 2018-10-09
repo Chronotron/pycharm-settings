@@ -84,24 +84,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/ipSettings/ipSettingsData.py" timestamp="1490891479495">
-        <mark key="'" line="15" column="34" />
-        <mark key="[" line="15" column="85" />
-        <mark key="]" line="15" column="83" />
-        <mark key="." line="15" column="83" />
-        <mark key="^" line="15" column="83" />
-      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/adapter/fingerprintAdapterActual.py" timestamp="1539118512388" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpiTest/presenter/embeddedClock/employeeAuthenticationPresenterTest.py" timestamp="1539116491207">
         <mark key="[" line="69" column="28" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/homework/chaos-beast/MA120/statistics/statistical_functions.py" timestamp="1501438514859">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="177" column="16" />
-        <mark key="]" line="178" column="43" />
-        <mark key="." line="178" column="43" />
-        <mark key="^" line="178" column="43" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/tornado/sudo-python.sh" timestamp="1490886406755">
         <mark key="[" line="0" column="0" />
@@ -130,7 +117,7 @@
         <mark key="^" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539117385289">
+      <file name="/Dummy.txt" timestamp="1539118513869">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -196,7 +183,7 @@
         <mark key="^" line="56" column="19" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/adapter/abstractFingerprintAdapter.py" timestamp="1539104465670" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/adapter/abstractFingerprintAdapter.py" timestamp="1539118531397" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/adapter/fingerprintAdapterTest.py" timestamp="1539115280324" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/networkStatus/wirelessNetworkModel.py" timestamp="1490914481048">
         <mark key="[" line="6" column="30" />
