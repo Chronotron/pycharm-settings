@@ -24,10 +24,12 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/websocket/request/fingerprintRequest.py" timestamp="1539102424278">
-        <mark key="[" line="136" column="76" />
-        <mark key="]" line="136" column="76" />
-        <mark key="." line="136" column="76" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/websocket/request/fingerprintRequest.py" timestamp="1539104133567">
+        <mark key="'" line="167" column="92" />
+        <mark key="[" line="154" column="131" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
+        <mark key="^" line="153" column="11" />
       </file>
       <file name="/fragment.py" timestamp="1512160366295">
         <mark key="[" line="0" column="0" />
@@ -42,7 +44,7 @@
         <mark key="^" line="13" column="74" />
         <mark key="." line="13" column="74" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/gen/common/data/biometrics/biometricSpecData.py" timestamp="1539102497747" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/gen/common/data/biometrics/biometricSpecData.py" timestamp="1539103124981" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/wirelessNetworkSetupHandler.py" timestamp="1490979273310">
         <mark key="[" line="22" column="97" />
         <mark key="]" line="26" column="8" />
@@ -112,7 +114,7 @@
         <mark key="^" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513619032091">
+      <file name="/Dummy.txt" timestamp="1539103840177">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -141,6 +143,7 @@
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="28" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/utility/jsonReader.py" timestamp="1539103235981" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/presenter/setup/pingPresenter.py" timestamp="1490985580831">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="8" />
@@ -170,10 +173,18 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/embeddedClock/employeeAuthenticationPresenter.py" timestamp="1539103821981" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/adapter/abstractFingerprintAdapter.py" timestamp="1539103838045" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/networkStatus/wirelessNetworkModel.py" timestamp="1490914481048">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="24" />
         <mark key="." line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/common/data/biometrics/biometricSpecData.py" timestamp="1539104228342">
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="25" column="69" />
+        <mark key="." line="25" column="69" />
+        <mark key="^" line="25" column="69" />
       </file>
     </filemarks>
     <jumps>
@@ -187,10 +198,11 @@
       <jump line="57" column="52" filename="$USER_HOME$/Work/tcp-tl-70/server/src/adapter/networkInterfaceAdapterActual.py" />
       <jump line="55" column="4" filename="$USER_HOME$/Work/tcp-tl-70/server/src/adapter/networkInterfaceAdapterActual.py" />
       <jump line="105" column="0" filename="$USER_HOME$/Documents/homework/chaos-beast/MA120/statistics/statistical_functions.py" />
+      <jump line="167" column="92" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/websocket/request/fingerprintRequest.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>message</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -235,7 +247,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>strBiometricSpecJson()</text>
       </register>
       <register name="/" type="4">
         <text>In progress</text>
@@ -243,32 +255,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fc2VuZEJpb21ldHJpY1dlYlNvY2tldE1lc3NhZ2UoaXNTdWNjZXNzPVRydWUsIG1lc3NhZ2U9bWVzc2FnZSwgcmVzdWx0PU5vbmUpCg==</text>
       </register>
-      <register name="1" type="8">
-        <text>message</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ICd0b3RhbDoge30nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fYmlvbWV0cmljU3BlY0RhdGEuc2hvdWxkU2tpcFZlcmlmaWNhdGlvbigpOgogICAgICAgICAgICAgICAgc2VsZi5fc2VuZEJpb21ldHJpY1dlYlNvY2tldE1lc3NhZ2UoaXNTdWNjZXNzPVRydWUsIG1lc3NhZ2U9cHJlc2VudGF0aW9uQ29uc3RhbnRzLlZFUklGSUNBVElPTl9TVUNDRVNTLCByZXN1bHQ9Tm9uZSkKICAgICAgICAgICAgICAgIGxvZ2dpbmcuaW5mbygiU2tpcHBpbmcgZW1wbG95ZWUgezB9IGJpb21ldHJpYyB2ZXJpZmljYXRpb24iLmZvcm1hdChzZWxmLl9iaW9tZXRyaWNTcGVjRGF0YS5zdHJJZCkpCiAgICAgICAgICAgICAgICByZXR1cm4KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50IHNlbGVjdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50IGxlbihwb3B1bGF0aW9uKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfc2hvdWxkU2tpcFZlcmlmaWNhdGlvbihzZWxmKToKICAgICAgICBzaG91bGRBc2tGb3JGaW5nZXJwcmludFZlcmlmaWNhdGlvbiA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvcHVsYXRpb24gPSBnZW5lcmF0ZVBvcHVsYXRpb24oaW5kaXZpZHVhbHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fc2hvdWxkU2tpcFZlcmlmaWNhdGlvbigpOgogICAgICAgICAgICAgICAgc2VsZi5fc2VuZEJpb21ldHJpY1dlYlNvY2tldE1lc3NhZ2UoaXNTdWNjZXNzPVRydWUsIG1lc3NhZ2U9cHJlc2VudGF0aW9uQ29uc3RhbnRzLlZFUklGSUNBVElPTl9TVUNDRVNTLCByZXN1bHQ9Tm9uZSkKICAgICAgICAgICAgICAgIGxvZ2dpbmcuaW5mbygiU2tpcHBpbmcgZW1wbG95ZWUgezB9IGJpb21ldHJpYyB2ZXJpZmljYXRpb24iLmZvcm1hdChzZWxmLl9iaW9tZXRyaWNTcGVjRGF0YS5zdHJJZCkpCiAgICAgICAgICAgICAgICByZXR1cm4KCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgaW5kaXZpZHVhbHMgPSBuYXR1cmFsU2VsZWN0aW9uKGluZGl2aWR1YWxzKQo=</text>
+      <register name="6" type="8">
+        <text>message</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgaW5kaXZpZHVhbHMgPSBuYXR1cmFsU2VsZWN0aW9uKGluZGl2aWR1YWxzKQo=</text>
+        <text encoding="base64">ICAgIHByaW50ICd0b3RhbDoge30nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50IHBvcHVsYXRpb24K</text>
+        <text encoding="base64">ICAgIHByaW50IHNlbGVjdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50IGxlbihwb3B1bGF0aW9uKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
