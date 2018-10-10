@@ -132,6 +132,12 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/windowFactory.py" timestamp="1539191997230">
+        <mark key="[" line="34" column="29" />
+        <mark key="]" line="34" column="39" />
+        <mark key="." line="34" column="39" />
+        <mark key="^" line="34" column="39" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/facade/fingerprintFacade.py" timestamp="1539119841198">
         <mark key="[" line="170" column="45" />
         <mark key="]" line="170" column="45" />
@@ -176,8 +182,8 @@
         <mark key="^" line="19" column="61" />
         <mark key="." line="21" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539188244254">
-        <mark key="[" line="0" column="63" />
+      <file name="/Dummy.txt" timestamp="1539191221564">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="63" />
         <mark key="." line="0" column="63" />
       </file>
@@ -260,7 +266,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ixed an issue of resetting password to blank does not immediately update</text>
+        <text>__singleton.</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -305,7 +311,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ixed an issue of resetting password to blank does not immediately update</text>
+        <text>__singleton.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc09ubGluZVw+</text>
@@ -314,31 +320,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCJUZXJtaW5hbCBpcyBub3QgcGFzc3dvcmQgcHJvdGVjdGVkLCBvcGVuaW5nIGJvb3QgbWVudSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLl9wYXJlbnRXaW5kb3cuY2xvc2UoKQogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHBvc3QtY29uZGl0aW9ucwogICAgICAgIHNlbGYuYXNzZXJ0RmFsc2UoaXNWZXJpZmllZCkK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLl9wYXJlbnRXaW5kb3cuY2xvc2UoKQogICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIHBvc3QtY29uZGl0aW9ucwogICAgICAgIHNlbGYuYXNzZXJ0RmFsc2UoaXNWZXJpZmllZCkK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmVtdWxhdGVkRW5yb2xsbWVudEZpbmdlcnByaW50VGVtcGxhdGVFeGl0Q29kZSA9IDAK</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>verifyResponse</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGEuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGEuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
