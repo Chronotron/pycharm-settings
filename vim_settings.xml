@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/handlerHelper.py" timestamp="1490888614610">
@@ -14,24 +14,14 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/websocket/request/fingerprintRequest.py" timestamp="1539116731368">
-        <mark key="'" line="166" column="92" />
-        <mark key="[" line="159" column="61" />
-        <mark key="]" line="159" column="61" />
-        <mark key="." line="159" column="61" />
-        <mark key="^" line="153" column="58" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/resources/serviceConstants.py" timestamp="1539119993887">
-        <mark key="[" line="0" column="53" />
-      </file>
-      <file name="/a.dummy" timestamp="1490910426902">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpiTest/model/common/data/biometrics/biometricSpecDataTest.py" timestamp="1539116562359">
         <mark key="[" line="30" column="23" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/peripheralsWindow.py" timestamp="1539268763989">
+        <mark key="[" line="20" column="29" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/networkingWindow.py" timestamp="1539208472035">
         <mark key="[" line="2" column="0" />
@@ -39,7 +29,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/applicationWindow.py" timestamp="1539210586941" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/applicationWindow.py" timestamp="1539268089189" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/wirelessNetworkSetupHandler.py" timestamp="1490979273310">
         <mark key="[" line="22" column="97" />
         <mark key="]" line="26" column="8" />
@@ -61,9 +51,6 @@
         <mark key="[" line="8" column="29" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/adapter/fingerprintAdapterActual.py" timestamp="1539119648703">
-        <mark key="[" line="273" column="34" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpiTest/presenter/embeddedClock/employeeAuthenticationPresenterTest.py" timestamp="1539121286577">
         <mark key="[" line="96" column="0" />
@@ -96,9 +83,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/tornado/builder.py" timestamp="1490888769909">
-        <mark key="[" line="33" column="43" />
-      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/manageNetworkHandler.py" timestamp="1490979301063">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -115,25 +99,23 @@
         <mark key="]" line="14" column="8" />
         <mark key="." line="14" column="8" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/tornado/server.py" timestamp="1490887263004">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/terminalPasswordSetupWindow.py" timestamp="1539268335901">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="29" />
+        <mark key="^" line="13" column="29" />
+        <mark key="." line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/bootMenuWindow.py" timestamp="1539212521191">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/logWindow.py" timestamp="1539268740973" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/bootMenuWindow.py" timestamp="1539268280821">
+        <mark key="[" line="36" column="55" />
+        <mark key="]" line="36" column="55" />
+        <mark key="." line="36" column="55" />
+        <mark key="^" line="31" column="26" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/badgeTestHandler.py" timestamp="1490883343100">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/embeddedClock/employeeAuthenticationPresenter.py" timestamp="1539121070718">
-        <mark key="'" line="56" column="11" />
-        <mark key="[" line="158" column="104" />
-        <mark key="]" line="158" column="101" />
-        <mark key="^" line="158" column="101" />
-        <mark key="." line="158" column="101" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/adapter/abstractFingerprintAdapter.py" timestamp="1539120694253">
         <mark key="[" line="86" column="22" />
@@ -151,12 +133,12 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/windowFactory.py" timestamp="1539214961063">
+      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/windowFactory.py" timestamp="1539269883688">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="30" column="47" />
-        <mark key="]" line="30" column="42" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="29" column="41" />
+        <mark key="[" line="40" column="21" />
+        <mark key="]" line="39" column="37" />
+        <mark key="." line="39" column="37" />
+        <mark key="^" line="40" column="68" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/facade/fingerprintFacade.py" timestamp="1539119841198">
         <mark key="[" line="170" column="45" />
@@ -174,9 +156,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1512160366295">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/wirelessNetworkSetup/wirelessNetworkSetupContext.py" timestamp="1490911890163">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="13" column="74" />
@@ -189,7 +168,7 @@
         <mark key="." line="14" column="49" />
         <mark key="^" line="14" column="49" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/abstractWindow.py" timestamp="1539212131904">
+      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/abstractWindow.py" timestamp="1539268106173">
         <mark key="[" line="76" column="83" />
         <mark key="]" line="76" column="93" />
         <mark key="^" line="76" column="93" />
@@ -212,7 +191,7 @@
         <mark key="^" line="19" column="61" />
         <mark key="." line="21" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539265163659">
+      <file name="/Dummy.txt" timestamp="1539268742151">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="63" />
         <mark key="." line="0" column="63" />
@@ -249,7 +228,7 @@
         <mark key="]" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/forgotTerminalPasswordWindow.py" timestamp="1539208446019">
+      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/forgotTerminalPasswordWindow.py" timestamp="1539268630229">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
@@ -259,14 +238,14 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/common/decorator/facadeResponseDecorator.py" timestamp="1539120374453">
-        <mark key="[" line="31" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/TestProject/ResetPasswordUtility.py" timestamp="1539269401671">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TestProject/ResetPasswordUtility.py" timestamp="1539186068215">
-        <mark key="[" line="14" column="21" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/terminalPasswordLoginWindow.py" timestamp="1539208438588">
-        <mark key="[" line="66" column="12" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/terminalPasswordLoginWindow.py" timestamp="1539268699845">
+        <mark key="[" line="35" column="72" />
         <mark key="]" line="66" column="81" />
         <mark key="." line="66" column="0" />
         <mark key="^" line="62" column="78" />
@@ -296,8 +275,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/windowFactory.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8od2luZG93Q2xhc3MuX19uYW1lX18pCg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="l" type="4">
         <keys>
@@ -342,40 +321,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>isNetworkingWindowOpen = False</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8od2luZG93Q2xhc3MuX19uYW1lX18pCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oc2VsZi5pbnN0YW5jZS5vcGVuV2luZG93cykKICAgICAgICBpZiB3aW5kb3dDbGFzcy5fX25hbWVfXyBpbiBzZWxmLmluc3RhbmNlLm9wZW5XaW5kb3dzOgogICAgICAgICAgICBsb2dnaW5nLmluZm8oInswfSBpcyBhbHJlYWR5IG9wZW4sIGlnbm9yaW5nIHRoZSBidXR0b24gY2xpY2siLmZvcm1hdCh3aW5kb3dDbGFzcy5fX25hbWVfXykpCiAgICAgICAgICAgIHJldHVybiBOb25lCgogICAgICAgIHNlbGYuaW5zdGFuY2Uub3BlbldpbmRvd3MuYXBwZW5kKHdpbmRvd0NsYXNzLl9fbmFtZV9fKQogICAgICAgIHdpbmRvdyA9IHdpbmRvd0NsYXNzKHNlbGYuX2dldEhlbHBlcigpLCBxdWl0T25DbG9zZSkKICAgICAgICB3aW5kb3cuc2hvdygpCiAgICAgICAgcmV0dXJuIHdpbmRvdwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDIpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oInswfSoqKioqKioqKioqKioqKioqKioqKioiLmZvcm1hdCh3aW5kb3dDbGFzcy5fX25hbWVfXykpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKCkK</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluc3RhbmNlLm9wZW5XaW5kb3dzLmFwcGVuZCh3aW5kb3dDbGFzcy5fX25hbWVfXykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CldJTkRPV19OQU1FX05FVFdPUktJTkcgPSAid2luZG93MSIK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluc3RhbmNlLm9wZW5XaW5kb3dzLmFwcGVuZCh3aW5kb3dDbGFzcy5fX25hbWVfXykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CldJTkRPV19OQU1FX05FVFdPUktJTkcgPSAid2luZG93MSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSByZXNvdXJjZXMuY29uc3RhbnRzIGltcG9ydCBXSU5ET1dfTkFNRV9ORVRXT1JLSU5HCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjY2hpbGRXaW5kb3cgPSBOZXR3b3JraW5nV2luZG93KHNlbGYuX2hlbHBlciwgRmFsc2UpCg==</text>
+        <text encoding="base64">ZnJvbSByZXNvdXJjZXMuY29uc3RhbnRzIGltcG9ydCBXSU5ET1dfTkFNRV9ORVRXT1JLSU5HCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oIkNsb3Npbmcgd2luZG93IC4uIikK</text>
+        <text encoding="base64">ICAgICAgICAjY2hpbGRXaW5kb3cgPSBOZXR3b3JraW5nV2luZG93KHNlbGYuX2hlbHBlciwgRmFsc2UpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
