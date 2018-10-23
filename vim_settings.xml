@@ -115,8 +115,11 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/service/authenticationServiceImpl.py" timestamp="1540327603887">
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/service/authenticationServiceImpl.py" timestamp="1540329376918">
         <mark key="'" line="215" column="8" />
+        <mark key="[" line="301" column="42" />
+        <mark key="]" line="301" column="0" />
+        <mark key="." line="301" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/adapter/abstractFingerprintAdapter.py" timestamp="1539120694253">
         <mark key="[" line="86" column="22" />
@@ -147,7 +150,7 @@
         <mark key="^" line="169" column="41" />
         <mark key="." line="170" column="45" />
       </file>
-      <file name="/Python Console" timestamp="1540328005101">
+      <file name="/Python Console" timestamp="1540329263635">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -284,8 +287,8 @@
       <jump line="215" column="8" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/service/authenticationServiceImpl.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>3F404123-6F2E-45B3-9017-B3FF90AA15A1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -338,32 +341,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oc2VsZi5pbnN0YW5jZS5vcGVuV2luZG93cykKICAgICAgICBpZiB3aW5kb3dDbGFzcy5fX25hbWVfXyBpbiBzZWxmLmluc3RhbmNlLm9wZW5XaW5kb3dzOgogICAgICAgICAgICBsb2dnaW5nLmluZm8oInswfSBpcyBhbHJlYWR5IG9wZW4sIGlnbm9yaW5nIHRoZSBidXR0b24gY2xpY2siLmZvcm1hdCh3aW5kb3dDbGFzcy5fX25hbWVfXykpCiAgICAgICAgICAgIHJldHVybiBOb25lCgogICAgICAgIHNlbGYuaW5zdGFuY2Uub3BlbldpbmRvd3MuYXBwZW5kKHdpbmRvd0NsYXNzLl9fbmFtZV9fKQogICAgICAgIHdpbmRvdyA9IHdpbmRvd0NsYXNzKHNlbGYuX2dldEhlbHBlcigpLCBxdWl0T25DbG9zZSkKICAgICAgICB3aW5kb3cuc2hvdygpCiAgICAgICAgcmV0dXJuIHdpbmRvdwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>3F404123-6F2E-45B3-9017-B3FF90AA15A1</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oInswfSoqKioqKioqKioqKioqKioqKioqKioiLmZvcm1hdCh3aW5kb3dDbGFzcy5fX25hbWVfXykpCg==</text>
+        <text encoding="base64">ICAgICAgICAjICByZXR1cm4gCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDIpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Z3VhcmQgY2xhdXNlCiAgICAgICAgaWYgID09IDA6CiAgICAgICAgICAg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKCkK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgY29va2llIGluIGxvZ2luUmVnaXN0cmF0aW9uUmVzcG9uc2UuSDoK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgpCg==</text>
+      <register name="5" type="8">
+        <text>3F404123-6F2E-45B3-9017-B3FF90AA15A1</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluc3RhbmNlLm9wZW5XaW5kb3dzLmFwcGVuZCh3aW5kb3dDbGFzcy5fX25hbWVfXykK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oInswfSoqKioqKioqKioqKioqKioqKioqKioiLmZvcm1hdCh3aW5kb3dDbGFzcy5fX25hbWVfXykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CldJTkRPV19OQU1FX05FVFdPUktJTkcgPSAid2luZG93MSIK</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSByZXNvdXJjZXMuY29uc3RhbnRzIGltcG9ydCBXSU5ET1dfTkFNRV9ORVRXT1JLSU5HCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
@@ -407,6 +410,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
