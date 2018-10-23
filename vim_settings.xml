@@ -115,6 +115,7 @@
         <mark key="]" line="12" column="43" />
         <mark key="." line="12" column="43" />
       </file>
+      <file name="/usr/local/lib/python2.7/dist-packages/requests/sessions.py" timestamp="1540331885617" />
       <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/bootMenuWindow.py" timestamp="1539268280821">
         <mark key="[" line="36" column="55" />
         <mark key="]" line="36" column="55" />
@@ -122,7 +123,6 @@
         <mark key="^" line="31" column="26" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/service/abstractServiceImpl.py" timestamp="1540330454780">
-        <mark key="'" line="48" column="57" />
         <mark key="[" line="39" column="40" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/badgeTestHandler.py" timestamp="1490883343100">
@@ -175,11 +175,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/utility/requestProxy.py" timestamp="1540330918699">
-        <mark key="[" line="56" column="103" />
-        <mark key="]" line="61" column="56" />
-        <mark key="^" line="61" column="56" />
-        <mark key="." line="61" column="56" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/utility/requestProxy.py" timestamp="1540332134963">
+        <mark key="[" line="53" column="59" />
+        <mark key="]" line="53" column="59" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="50" column="58" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/wirelessNetworkSetup/wirelessNetworkSetupContext.py" timestamp="1490911890163">
         <mark key="[" line="10" column="22" />
@@ -219,7 +219,7 @@
         <mark key="^" line="19" column="61" />
         <mark key="." line="21" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539268742151">
+      <file name="/Dummy.txt" timestamp="1540332579601">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="63" />
         <mark key="." line="0" column="63" />
@@ -312,8 +312,8 @@
       <jump line="48" column="57" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/service/abstractServiceImpl.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#TODO: MP - make bette</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBhZGRTZXNzaW9uSWRRdWVyeUhlYWRlcihzZWxmLCBzZXNzaW9uSWQpOgogICAgICAgIHNlbGYuYWRkT3JkZXJlZFF1ZXJ5SGVhZGVyKCdTZXNzaW9uLUlkJywgc2Vzc2lvbklkKQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -358,40 +358,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#TODO: MP - make bette</text>
+        <text>cookies=sessionCookieDict,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfaGFuZGxlTG9naW5SZWdpc3RyYXRpb25SZXNwb25zZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oc2VsZi5pbnN0YW5jZS5vcGVuV2luZG93cykKICAgICAgICBpZiB3aW5kb3dDbGFzcy5fX25hbWVfXyBpbiBzZWxmLmluc3RhbmNlLm9wZW5XaW5kb3dzOgogICAgICAgICAgICBsb2dnaW5nLmluZm8oInswfSBpcyBhbHJlYWR5IG9wZW4sIGlnbm9yaW5nIHRoZSBidXR0b24gY2xpY2siLmZvcm1hdCh3aW5kb3dDbGFzcy5fX25hbWVfXykpCiAgICAgICAgICAgIHJldHVybiBOb25lCgogICAgICAgIHNlbGYuaW5zdGFuY2Uub3BlbldpbmRvd3MuYXBwZW5kKHdpbmRvd0NsYXNzLl9fbmFtZV9fKQogICAgICAgIHdpbmRvdyA9IHdpbmRvd0NsYXNzKHNlbGYuX2dldEhlbHBlcigpLCBxdWl0T25DbG9zZSkKICAgICAgICB3aW5kb3cuc2hvdygpCiAgICAgICAgcmV0dXJuIHdpbmRvdwo=</text>
+        <text encoding="base64">ICAgIGRlZiBhZGRTZXNzaW9uSWRRdWVyeUhlYWRlcihzZWxmLCBzZXNzaW9uSWQpOgogICAgICAgIHNlbGYuYWRkT3JkZXJlZFF1ZXJ5SGVhZGVyKCdTZXNzaW9uLUlkJywgc2Vzc2lvbklkKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgIGlmIHNlc3Npb25Db29raWUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHNlbGYuYWRkU2Vzc2lvbkNvb2tpZUhlYWRlcihzZXNzaW9uQ29va2llKQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjICByZXR1cm4gCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgc2Vzc2lvbkNvb2tpZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgc2VsZi5hZGRTZXNzaW9uQ29va2llSGVhZGVyKHNlc3Npb25Db29raWUp</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Z3VhcmQgY2xhdXNlCiAgICAgICAgaWYgID09IDA6CiAgICAgICAgICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uQ29va2llRGljdCA9IHsnU2V0LUNvb2tpZSc6IHNlc3Npb25Db29raWV9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgY29va2llIGluIGxvZ2luUmVnaXN0cmF0aW9uUmVzcG9uc2UuSDoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="8">
-        <text>3F404123-6F2E-45B3-9017-B3FF90AA15A1</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjICByZXR1cm4gCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oInswfSoqKioqKioqKioqKioqKioqKioqKioiLmZvcm1hdCh3aW5kb3dDbGFzcy5fX25hbWVfXykpCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Z3VhcmQgY2xhdXNlCiAgICAgICAgaWYgID09IDA6CiAgICAgICAgICAg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDIpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgY29va2llIGluIGxvZ2luUmVnaXN0cmF0aW9uUmVzcG9uc2UuSDoK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKCkK</text>
+      <register name="8" type="8">
+        <text>3F404123-6F2E-45B3-9017-B3FF90AA15A1</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oInswfSoqKioqKioqKioqKioqKioqKioqKioiLmZvcm1hdCh3aW5kb3dDbGFzcy5fX25hbWVfXykpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
