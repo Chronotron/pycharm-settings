@@ -14,9 +14,6 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/abstractUpdate.py" timestamp="1540995428348">
-        <mark key="'" line="118" column="8" />
-      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/setup/userAuthenticationPresenter.py" timestamp="1540412767814">
         <mark key="'" line="254" column="87" />
         <mark key="[" line="255" column="62" />
@@ -39,6 +36,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="4" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/serverSettingsManager.py" timestamp="1540998082091" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/wirelessNetworkSetupHandler.py" timestamp="1490979273310">
         <mark key="[" line="22" column="97" />
         <mark key="]" line="26" column="8" />
@@ -117,6 +115,9 @@
         <mark key="[" line="12" column="43" />
         <mark key="]" line="12" column="43" />
         <mark key="." line="12" column="43" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/messageBox.py" timestamp="1540996591341">
+        <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/bootMenuWindow.py" timestamp="1539268280821">
         <mark key="[" line="36" column="55" />
@@ -215,10 +216,10 @@
         <mark key="^" line="19" column="61" />
         <mark key="." line="21" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540411552761">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="63" />
-        <mark key="." line="0" column="63" />
+      <file name="/Dummy.txt" timestamp="1540999617332">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/cameraTestHandler.py" timestamp="1490883336980">
         <mark key="[" line="9" column="0" />
@@ -253,11 +254,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/usr/lib/python3.5/urllib/request.py" timestamp="1540996858226" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/apiNetworkInterfaceHandler.py" timestamp="1490883378320">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
+      <file name="/usr/lib/python3.5/socket.py" timestamp="1540997147838" />
       <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/forgotTerminalPasswordWindow.py" timestamp="1539268630229">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="91" column="0" />
@@ -280,11 +283,18 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="62" column="78" />
       </file>
+      <file name="$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-1247971764/_socket.py" timestamp="1540996456922" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/common/data/biometrics/biometricSpecData.py" timestamp="1539116595031">
         <mark key="[" line="6" column="26" />
         <mark key="]" line="6" column="26" />
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/bootMenuUpdate.py" timestamp="1540999556591">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="13" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -310,8 +320,8 @@
       <jump line="118" column="8" filename="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/abstractUpdate.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBhZGRTZXNzaW9uSWRRdWVyeUhlYWRlcihzZWxmLCBzZXNzaW9uSWQpOgogICAgICAgIHNlbGYuYWRkT3JkZXJlZFF1ZXJ5SGVhZGVyKCdTZXNzaW9uLUlkJywgc2Vzc2lvbklkKQo=</text>
+      <register name="&quot;" type="4">
+        <text>ttp://termsvr3.dmione.com/arms2013/project/O/42/item/31219</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -356,49 +366,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cookies=sessionCookieDict,</text>
+        <text>ttp://termsvr3.dmione.com/arms2013/project/O/42/item/31219</text>
       </register>
       <register name="/" type="4">
-        <text>About to</text>
+        <text>serverSetting</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBhZGRTZXNzaW9uSWRRdWVyeUhlYWRlcihzZWxmLCBzZXNzaW9uSWQpOgogICAgICAgIHNlbGYuYWRkT3JkZXJlZFF1ZXJ5SGVhZGVyKCdTZXNzaW9uLUlkJywgc2Vzc2lvbklkKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgIGlmIHNlc3Npb25Db29raWUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHNlbGYuYWRkU2Vzc2lvbkNvb2tpZUhlYWRlcihzZXNzaW9uQ29va2llKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgc2Vzc2lvbkNvb2tpZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgc2VsZi5hZGRTZXNzaW9uQ29va2llSGVhZGVyKHNlc3Npb25Db29raWUp</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IHNlbGYuX2lzQXBpU2VydmVyQXZhaWxhYmxlKCk6CiAgICAgICAgICAgICAgICBsb2dnaW5nLndhcm5pbmcoIkFwaSBzZXJ2ZXIgaXMgbm90IGF2YWlsYWJsZSwgc2tpcHBpbmcgdXBkYXRlIikKICAgICAgICAgICAgICAgIHJldHVybgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uQ29va2llRGljdCA9IHsnU2V0LUNvb2tpZSc6IHNlc3Npb25Db29raWV9Cg==</text>
+        <text encoding="base64">ZnJvbSBzZXJ2ZXJTZXR0aW5nc01hbmFnZXIgaW1wb3J0IFNlcnZlclNldHRpbmdzTWFuYWdlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRlZiBfZ2V0U2NyaXB0RmlsZVBhdGgoc2VsZiwgZmlsZU5hbWUpOgogICAgICAgIHJldHVybiBzZWxmLmFwcENvbmZpZy5nZXRCb290VXBkYXRlRGlyRmlsZXBhdGgoZmlsZU5hbWUpCgogICAgZGVmIF9nZXRMYXRlc3RQYWNrYWdlKHNlbGYsIHNob3VsZEluY2x1ZGVTaXplLCBsZW5ndGhPZlBhY2thZ2VWYWx1ZSk6CiAgICAgICAgbGF0ZXN0UGFja2FnZVZhbHVlID0gc2VsZi5fZ2V0QXZhaWxhYmxlU29mdHdhcmVQYWNrYWdlKHNob3VsZEluY2x1ZGVTaXplKQogICAgICAgIGlmIG5vdCBsYXRlc3RQYWNrYWdlVmFsdWUgb3IgbGVuKGxhdGVzdFBhY2thZ2VWYWx1ZSkgIT0gbGVuZ3RoT2ZQYWNrYWdlVmFsdWU6CiAgICAgICAgICAgIHNlbGYub3V0cHV0TG9ncy5hcHBlbmQoIlByb2JsZW0gZ2V0dGluZyBsYXRlc3QgcGFja2FnZSBwcm9jZXNzIikKICAgICAgICAgICAgbG9nZ2luZy5leGNlcHRpb24oIlByb2JsZW0gZ2V0dGluZyBsYXRlc3QgcGFja2FnZSBwcm9jZXNzIikKICAgICAgICAgICAgc2VsZi51cGRhdGVGbGFnc1doZW5FcnJvcigpCiAgICAgICAgICAgIHJldHVybiBOb25lCgogICAgICAgIGxvZ2dpbmcuaW5mbygiTGF0ZXN0IHBhY2thZ2UgZm91bmQgaXMgezB9Ii5mb3JtYXQobGF0ZXN0UGFja2FnZVZhbHVlKSkKICAgICAgICByZXR1cm4gbGF0ZXN0UGFja2FnZVZhbHVlCgogICAgZGVmIF9pc0FwaVNlcnZlckF2YWlsYWJsZShzZWxmKToKICAgICAgICByZXR1cm4gU2VydmVyU2V0dGluZ3NNYW5hZ2VyKCkuaXNFeGlzdGluZ1NlcnZlclNldHRpbmdzVmFsaWQoKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfY2hlY2tJZkFscmVhZHlVcGRhdGVkKHNlbGYsIGxhdGVzdFBhY2thZ2VOYW1lKToKICAgICAgICBpbnN0YWxsZWRGaWxlUGF0aCA9IHNlbGYuYXBwQ29uZmlnLmdldEJvb3RDb25maWdEaXJGaWxlcGF0aChzZWxmLklOU1RBTExFRF9TVEFURV9GSUxFTkFNRS5mb3JtYXQobGF0ZXN0UGFja2FnZU5hbWUpKQoKICAgICAgICAjIGd1YXJkIGNsYXVzZSAtIGNoZWNrIGlmIGV4aXN0cwogICAgICAgIGlmIG9zLnBhdGguZXhpc3RzKGluc3RhbGxlZEZpbGVQYXRoKToKICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCJMYXRlc3QgcGFja2FnZSBhbHJlYWR5IGV4aXN0IikKICAgICAgICAgICAgcmV0dXJuIFRydWUKCiAgICAgICAgcmV0dXJuIEZhbHNlCgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Z3VhcmQgY2xhdXNlCiAgICAgICAgaWYgID09IDA6CiAgICAgICAgICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiBfaXNBcGlTZXJ2ZXJBdmFpbGFibGUoc2VsZik6CiAgICAgICAgcmV0dXJuIFNlcnZlclNldHRpbmdzTWFuYWdlcigpLmlzRXhpc3RpbmdTZXJ2ZXJTZXR0aW5nc1ZhbGlkKCkKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgY29va2llIGluIGxvZ2luUmVnaXN0cmF0aW9uUmVzcG9uc2UuSDoK</text>
+        <text encoding="base64">ICAgIGRlZiBfaXNBcGlTZXJ2ZXJBdmFpbGFibGUoc2VsZik6CiAgICAgICAgIHJldHVybiBTZXJ2ZXJTZXR0aW5nc01hbmFnZXIoKS5pc0V4aXN0aW5nU2VydmVyU2V0dGluZ3NWYWxpZCgpCg==</text>
       </register>
-      <register name="8" type="8">
-        <text>3F404123-6F2E-45B3-9017-B3FF90AA15A1</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oInswfSoqKioqKioqKioqKioqKioqKioqKioiLmZvcm1hdCh3aW5kb3dDbGFzcy5fX25hbWVfXykpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgIGlmIHNlc3Npb25Db29raWUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHNlbGYuYWRkU2Vzc2lvbkNvb2tpZUhlYWRlcihzZXNzaW9uQ29va2llKQ==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>About to</last-search>
+      <last-search>serverSetting</last-search>
       <last-offset />
-      <last-pattern>About to</last-pattern>
+      <last-pattern>serverSetting</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -415,6 +425,7 @@
         <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry encoding="base64">XDxfaGFuZGxlTG9naW5SZWdpc3RyYXRpb25SZXNwb25zZVw+</entry>
         <entry>About to</entry>
+        <entry>serverSetting</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
