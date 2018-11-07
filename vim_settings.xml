@@ -88,6 +88,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/domain/serverConfigState.py" timestamp="1541632713975">
+        <mark key="[" line="17" column="78" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/manageNetworkHandler.py" timestamp="1490979301063">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -147,10 +150,12 @@
         <mark key="^" line="91" column="27" />
         <mark key="." line="91" column="27" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/server.py" timestamp="1541628563629">
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/server.py" timestamp="1541632822458">
+        <mark key="'" line="56" column="93" />
+        <mark key="[" line="58" column="28" />
+        <mark key="]" line="57" column="25" />
+        <mark key="." line="57" column="25" />
+        <mark key="^" line="57" column="25" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/networkStatus/wirelessNetworkModel.py" timestamp="1490914481048">
         <mark key="[" line="6" column="30" />
@@ -184,6 +189,10 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/domain/applicationConfiguration.py" timestamp="1541632349391">
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/wirelessNetworkSetup/wirelessNetworkSetupContext.py" timestamp="1490911890163">
         <mark key="[" line="10" column="22" />
@@ -220,7 +229,7 @@
         <mark key="^" line="19" column="61" />
         <mark key="." line="21" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541627037591">
+      <file name="/Dummy.txt" timestamp="1541631805943">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -319,10 +328,14 @@
       <jump line="48" column="57" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/service/abstractServiceImpl.py" />
       <jump line="46" column="25" filename="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/abstractUpdate.py" />
       <jump line="118" column="8" filename="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/abstractUpdate.py" />
+      <jump line="173" column="32" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/domain/applicationConfiguration.py" />
+      <jump line="174" column="8" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/domain/applicationConfiguration.py" />
+      <jump line="0" column="7" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/domain/applicationConfiguration.py" />
+      <jump line="56" column="93" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/server.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>pass</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -370,10 +383,10 @@
         <text>ttp://termsvr3.dmione.com/arms2013/project/O/42/item/31219</text>
       </register>
       <register name="/" type="4">
-        <text>serverSetting</text>
+        <text>log</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBhZGRTZXNzaW9uSWRRdWVyeUhlYWRlcihzZWxmLCBzZXNzaW9uSWQpOgogICAgICAgIHNlbGYuYWRkT3JkZXJlZFF1ZXJ5SGVhZGVyKCdTZXNzaW9uLUlkJywgc2Vzc2lvbklkKQo=</text>
+      <register name="0" type="4">
+        <text>pass</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -407,9 +420,9 @@
       </register>
     </registers>
     <search>
-      <last-search>serverSetting</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>serverSetting</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -427,6 +440,7 @@
         <entry encoding="base64">XDxfaGFuZGxlTG9naW5SZWdpc3RyYXRpb25SZXNwb25zZVw+</entry>
         <entry>About to</entry>
         <entry>serverSetting</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
