@@ -89,11 +89,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/domain/serverConfigState.py" timestamp="1542047094781">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="60" />
-        <mark key="^" line="18" column="3" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/domain/serverConfigState.py" timestamp="1542055006599">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="60" />
+        <mark key="." line="7" column="4" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/manageNetworkHandler.py" timestamp="1490979301063">
         <mark key="[" line="6" column="0" />
@@ -236,8 +236,8 @@
         <mark key="^" line="19" column="61" />
         <mark key="." line="21" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542042309873">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1542055070006">
+        <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
@@ -341,8 +341,8 @@
       <jump line="56" column="93" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/server.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -387,7 +387,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>time.sleep(1)</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -396,29 +396,29 @@
         <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTCA9IDMwICogMjQgKiA2MCAqIDYwICMzMCBkYXlzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTCA9IDUgKiA2MCAjMW1pbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIFJ1biBjbGVhcmxvZyBvbmNlIGltbWVkaWF0ZWx5CiAgICAgICAgbG9nZ2luZy5pbmZvKCIqKioqKioqKioqKioqKioqKioqKiogezB9Ii5mb3JtYXQoY29uZmlnLmZ1bmN0aW9uKSkKICAgICAgICBpZiBjb25maWcuZnVuY3Rpb24gaXMgY2xlYXJMb2dzOgogICAgICAgICAgICBjbGVhckxvZ3MoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjIFJ1biBjbGVhcmxvZyBvbmNlIGltbWVkaWF0ZWx5CiAgICAgICAgbG9nZ2luZy5pbmZvKCIqKioqKioqKioqKioqKioqKioqKiogezB9Ii5mb3JtYXQoY29uZmlnLmZ1bmN0aW9uKSkKICAgICAgICBpZiBjb25maWcuZnVuY3Rpb24gaXMgY2xlYXJMb2dzOgogICAgICAgICAgICBjbGVhckxvZ3MoKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIFBVUkdFX0xPR1MgPSAiY2FsbGJhY2sucGVyaW9kLnB1cmdlTG9ncyIK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CmRlZiBnZXRBbGxGaWxlTmFtZXMoKToKICAgIHBhc3M=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>def getAllFileNames():
     pass</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHNyYyA9ICdmaWxlIHRvIHJlcGxpY2F0ZS5qcGcnCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG9zLmNoZGlyKCcnKQo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9zLmNoZGlyKCcnKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
