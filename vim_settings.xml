@@ -89,11 +89,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/domain/serverConfigState.py" timestamp="1541699019348">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="34" column="37" />
-        <mark key="^" line="34" column="37" />
-        <mark key="." line="34" column="37" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/domain/serverConfigState.py" timestamp="1542041650696">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="60" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/manageNetworkHandler.py" timestamp="1490979301063">
         <mark key="[" line="6" column="0" />
@@ -236,7 +236,7 @@
         <mark key="^" line="19" column="61" />
         <mark key="." line="21" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541720384259">
+      <file name="/Dummy.txt" timestamp="1542041563766">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -341,8 +341,8 @@
       <jump line="56" column="93" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/server.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CmRlZiBnZXRBbGxGaWxlTmFtZXMoKToKICAgIHBhc3M=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTCA9IDMwICogMjQgKiA2MCAqIDYwICMzMCBkYXlzCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -392,36 +392,36 @@
       <register name="/" type="4">
         <text>log</text>
       </register>
-      <register name="0" type="4">
-        <text>pass</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTCA9IDMwICogMjQgKiA2MCAqIDYwICMzMCBkYXlzCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmRlZiBnZXRBbGxGaWxlTmFtZXMoKToKICAgIHBhc3M=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIFBVUkdFX0xPR1MgPSAiY2FsbGJhY2sucGVyaW9kLnB1cmdlTG9ncyIK</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CmRlZiBnZXRBbGxGaWxlTmFtZXMoKToKICAgIHBhc3M=</text>
+      </register>
+      <register name="3" type="4">
         <text>def getAllFileNames():
     pass</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHNyYyA9ICdmaWxlIHRvIHJlcGxpY2F0ZS5qcGcnCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG9zLmNoZGlyKCcnKQo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9zLmNoZGlyKCcnKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IHNlbGYuX2lzQXBpU2VydmVyQXZhaWxhYmxlKCk6CiAgICAgICAgICAgICAgICBsb2dnaW5nLndhcm5pbmcoIkFwaSBzZXJ2ZXIgaXMgbm90IGF2YWlsYWJsZSwgc2tpcHBpbmcgdXBkYXRlIikKICAgICAgICAgICAgICAgIHJldHVybgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBzZXJ2ZXJTZXR0aW5nc01hbmFnZXIgaW1wb3J0IFNlcnZlclNldHRpbmdzTWFuYWdlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IHNlbGYuX2lzQXBpU2VydmVyQXZhaWxhYmxlKCk6CiAgICAgICAgICAgICAgICBsb2dnaW5nLndhcm5pbmcoIkFwaSBzZXJ2ZXIgaXMgbm90IGF2YWlsYWJsZSwgc2tpcHBpbmcgdXBkYXRlIikKICAgICAgICAgICAgICAgIHJldHVybgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2V0U2NyaXB0RmlsZVBhdGgoc2VsZiwgZmlsZU5hbWUpOgogICAgICAgIHJldHVybiBzZWxmLmFwcENvbmZpZy5nZXRCb290VXBkYXRlRGlyRmlsZXBhdGgoZmlsZU5hbWUpCgogICAgZGVmIF9nZXRMYXRlc3RQYWNrYWdlKHNlbGYsIHNob3VsZEluY2x1ZGVTaXplLCBsZW5ndGhPZlBhY2thZ2VWYWx1ZSk6CiAgICAgICAgbGF0ZXN0UGFja2FnZVZhbHVlID0gc2VsZi5fZ2V0QXZhaWxhYmxlU29mdHdhcmVQYWNrYWdlKHNob3VsZEluY2x1ZGVTaXplKQogICAgICAgIGlmIG5vdCBsYXRlc3RQYWNrYWdlVmFsdWUgb3IgbGVuKGxhdGVzdFBhY2thZ2VWYWx1ZSkgIT0gbGVuZ3RoT2ZQYWNrYWdlVmFsdWU6CiAgICAgICAgICAgIHNlbGYub3V0cHV0TG9ncy5hcHBlbmQoIlByb2JsZW0gZ2V0dGluZyBsYXRlc3QgcGFja2FnZSBwcm9jZXNzIikKICAgICAgICAgICAgbG9nZ2luZy5leGNlcHRpb24oIlByb2JsZW0gZ2V0dGluZyBsYXRlc3QgcGFja2FnZSBwcm9jZXNzIikKICAgICAgICAgICAgc2VsZi51cGRhdGVGbGFnc1doZW5FcnJvcigpCiAgICAgICAgICAgIHJldHVybiBOb25lCgogICAgICAgIGxvZ2dpbmcuaW5mbygiTGF0ZXN0IHBhY2thZ2UgZm91bmQgaXMgezB9Ii5mb3JtYXQobGF0ZXN0UGFja2FnZVZhbHVlKSkKICAgICAgICByZXR1cm4gbGF0ZXN0UGFja2FnZVZhbHVlCgogICAgZGVmIF9pc0FwaVNlcnZlckF2YWlsYWJsZShzZWxmKToKICAgICAgICByZXR1cm4gU2VydmVyU2V0dGluZ3NNYW5hZ2VyKCkuaXNFeGlzdGluZ1NlcnZlclNldHRpbmdzVmFsaWQoKQoK</text>
+        <text encoding="base64">ZnJvbSBzZXJ2ZXJTZXR0aW5nc01hbmFnZXIgaW1wb3J0IFNlcnZlclNldHRpbmdzTWFuYWdlcgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
