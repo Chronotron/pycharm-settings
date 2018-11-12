@@ -154,12 +154,12 @@
         <mark key="^" line="91" column="27" />
         <mark key="." line="91" column="27" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/server.py" timestamp="1542057928232">
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/server.py" timestamp="1542059040814">
         <mark key="'" line="56" column="93" />
-        <mark key="[" line="55" column="30" />
-        <mark key="]" line="57" column="33" />
-        <mark key="." line="57" column="33" />
-        <mark key="^" line="57" column="33" />
+        <mark key="[" line="305" column="24" />
+        <mark key="]" line="305" column="24" />
+        <mark key="." line="305" column="0" />
+        <mark key="^" line="308" column="23" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/networkStatus/wirelessNetworkModel.py" timestamp="1490914481048">
         <mark key="[" line="6" column="30" />
@@ -236,10 +236,11 @@
         <mark key="^" line="19" column="61" />
         <mark key="." line="21" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542057253030">
+      <file name="/Dummy.txt" timestamp="1542059721459">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
+        <mark key="o" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/cameraTestHandler.py" timestamp="1490883336980">
         <mark key="[" line="9" column="0" />
@@ -346,8 +347,8 @@
       <jump line="80" column="78" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/builder.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTCA9IDMwICogMjQgKiA2MCAqIDYwICMzMCBkYXlzCg==</text>
+      <register name="&quot;" type="4">
+        <text>ttp://termsvr3.dmione.com/arms2013/project/O/42/item/31617</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -392,7 +393,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>ttp://termsvr3.dmione.com/arms2013/project/O/42/item/31617</text>
       </register>
       <register name="/" type="4">
         <text>Pool</text>
@@ -401,32 +402,31 @@
         <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTCA9IDMwICogMjQgKiA2MCAqIDYwICMzMCBkYXlzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsZWFyTG9nc09uU3RhcnR1cCgpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGZpbmRDb21tYW5kID0gImZpbmQgezB9IC1tdGltZSArezF9IC10eXBlIGYiLmZvcm1hdChkaXJOYW1lLCBjbGVhckxvZ3NCZWZvcmVEYXlzKQogICAgZmluZE5vT2ZGaWxlc1RvRGVsZXRlQ29tbWFuZCA9ICJ7MH0gfCB3YyIuZm9ybWF0KGZpbmRDb21tYW5kKQogICAgbm9PZkZpbGVzVG9EZWxldGUgPSBzY3JpcHRBZG1pbmlzdHJhdG9yLmV4ZWN1dGVTaGVsbENvbW1hbmQoZmluZE5vT2ZGaWxlc1RvRGVsZXRlQ29tbWFuZCk=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiQ2xlYXJpbmcgbG9ncyBvbiBzdGFydHVwLi4uIikKICAgIGNsZWFyTG9ncygpCiAgICBsb2dnaW5nLmluZm8oIkxvZ3MgY2xlYXJlZCIpCgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTCA9IDUgKiA2MCAjMW1pbgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiQ2xlYXJpbmcgbG9ncyBvbiBzdGFydHVwLi4uIikKICAgIGNsZWFyTG9ncygpCiAgICBsb2dnaW5nLmluZm8oIkxvZ3MgY2xlYXJlZCIpCgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFJ1biBjbGVhcmxvZyBvbmNlIGltbWVkaWF0ZWx5CiAgICAgICAgbG9nZ2luZy5pbmZvKCIqKioqKioqKioqKioqKioqKioqKiogezB9Ii5mb3JtYXQoY29uZmlnLmZ1bmN0aW9uKSkKICAgICAgICBpZiBjb25maWcuZnVuY3Rpb24gaXMgY2xlYXJMb2dzOgogICAgICAgICAgICBjbGVhckxvZ3MoKQo=</text>
+        <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTCA9IDUgKiA2MCAjMW1pbgo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAjIFJ1biBjbGVhcmxvZyBvbmNlIGltbWVkaWF0ZWx5CiAgICAgICAgbG9nZ2luZy5pbmZvKCIqKioqKioqKioqKioqKioqKioqKiogezB9Ii5mb3JtYXQoY29uZmlnLmZ1bmN0aW9uKSkKICAgICAgICBpZiBjb25maWcuZnVuY3Rpb24gaXMgY2xlYXJMb2dzOgogICAgICAgICAgICBjbGVhckxvZ3MoKQo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgIFBVUkdFX0xPR1MgPSAiY2FsbGJhY2sucGVyaW9kLnB1cmdlTG9ncyIK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmRlZiBnZXRBbGxGaWxlTmFtZXMoKToKICAgIHBhc3M=</text>
-      </register>
-      <register name="9" type="4">
-        <text>def getAllFileNames():
-    pass</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
