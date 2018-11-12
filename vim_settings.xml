@@ -9,7 +9,6 @@
         <mark key="." line="8" column="101" />
         <mark key="^" line="8" column="56" />
       </file>
-      <file name="$USER_HOME$/Music/testlogs/generateLogs.py" timestamp="1541697984693" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/testMainMenuHandler.py" timestamp="1490883285823">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="21" />
@@ -154,11 +153,11 @@
         <mark key="^" line="91" column="27" />
         <mark key="." line="91" column="27" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/server.py" timestamp="1542059040814">
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/server.py" timestamp="1542064552047">
         <mark key="'" line="56" column="93" />
-        <mark key="[" line="305" column="24" />
-        <mark key="]" line="305" column="24" />
-        <mark key="." line="305" column="0" />
+        <mark key="[" line="54" column="56" />
+        <mark key="]" line="54" column="56" />
+        <mark key="." line="54" column="56" />
         <mark key="^" line="308" column="23" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/networkStatus/wirelessNetworkModel.py" timestamp="1490914481048">
@@ -305,7 +304,6 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="62" column="78" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/adapter/abstractTerminalUpdateAdapter.py" timestamp="1542056484094" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/common/data/biometrics/biometricSpecData.py" timestamp="1539116595031">
         <mark key="[" line="6" column="26" />
         <mark key="]" line="6" column="26" />
@@ -348,7 +346,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ttp://termsvr3.dmione.com/arms2013/project/O/42/item/31617</text>
+        <text>)</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -393,7 +391,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ttp://termsvr3.dmione.com/arms2013/project/O/42/item/31617</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Pool</text>
