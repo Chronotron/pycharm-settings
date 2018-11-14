@@ -14,8 +14,11 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/abstractUpdate.py" timestamp="1542230210409">
+      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/abstractUpdate.py" timestamp="1542231008762">
         <mark key="[" line="195" column="29" />
+        <mark key="]" line="67" column="85" />
+        <mark key="^" line="67" column="85" />
+        <mark key="." line="67" column="85" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/setup/userAuthenticationPresenter.py" timestamp="1540412767814">
         <mark key="'" line="254" column="87" />
