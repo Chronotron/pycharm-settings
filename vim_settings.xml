@@ -239,10 +239,10 @@
         <mark key="^" line="19" column="61" />
         <mark key="." line="21" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542233416093">
+      <file name="/Dummy.txt" timestamp="1542239328918">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="62" />
-        <mark key="." line="0" column="62" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/cameraTestHandler.py" timestamp="1490883336980">
@@ -351,8 +351,8 @@
       <jump line="80" column="78" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/builder.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTF9EQVlTID0gCg==</text>
+      <register name="&quot;" type="4">
+        <text>http://termsvr3.dmione.com/arms2013/project/O/42/item/31756http://termsvr3.dmione.com/arms2013/project/O/42/item/31756 - changing the pipeline scheme to http (problem connecting with https)</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -397,7 +397,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#30 day</text>
+        <text>http://termsvr3.dmione.com/arms2013/project/O/42/item/31756http://termsvr3.dmione.com/arms2013/project/O/42/item/31756 - changing the pipeline scheme to http (problem connecting with https)</text>
       </register>
       <register name="/" type="4">
         <text>Pool</text>
