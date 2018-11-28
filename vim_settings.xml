@@ -8,9 +8,11 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/adapter/cameraAdapterActual.py" timestamp="1543446579732" />
       <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/peripheralsWindow.py" timestamp="1539268763989">
         <mark key="[" line="20" column="29" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/adapter/cameraAdapter.h" timestamp="1543446040909" />
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/userAuthenticationPresenterTest.py" timestamp="1543443591623">
         <mark key="[" line="180" column="106" />
       </file>
@@ -80,6 +82,9 @@
       <file name="$USER_HOME$/Work/tcp-tl-70-7.0.65-4880/server/src/mpi/adapter/abstractPlatformAdapter.py" timestamp="1543439190219">
         <mark key="'" line="381" column="16" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/virtualEnv/VirtualEnv/lib/python3.6/site-packages/cffi/api.py" timestamp="1543445827014">
+        <mark key="'" line="464" column="31" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/terminalPasswordEntryPresenterTest.py" timestamp="1543443803384">
         <mark key="[" line="293" column="88" />
       </file>
@@ -127,7 +132,7 @@
         <mark key="]" line="16" column="21" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543443904895">
+      <file name="/Dummy.txt" timestamp="1543446580891">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -209,6 +214,12 @@
       <jump line="34" column="24" filename="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/builder.py" />
       <jump line="35" column="24" filename="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/builder.py" />
       <jump line="381" column="16" filename="$USER_HOME$/Work/tcp-tl-70-7.0.65-4880/server/src/mpi/adapter/abstractPlatformAdapter.py" />
+      <jump line="38" column="8" filename="$USER_HOME$/Work/tcp-tl-70-80/server/virtualEnv/VirtualEnv/lib/python3.6/site-packages/cffi/api.py" />
+      <jump line="294" column="8" filename="$USER_HOME$/Work/tcp-tl-70-80/server/virtualEnv/VirtualEnv/lib/python3.6/site-packages/cffi/api.py" />
+      <jump line="739" column="37" filename="$USER_HOME$/Work/tcp-tl-70-80/server/virtualEnv/VirtualEnv/lib/python3.6/site-packages/cffi/api.py" />
+      <jump line="292" column="35" filename="$USER_HOME$/Work/tcp-tl-70-80/server/virtualEnv/VirtualEnv/lib/python3.6/site-packages/cffi/api.py" />
+      <jump line="327" column="33" filename="$USER_HOME$/Work/tcp-tl-70-80/server/virtualEnv/VirtualEnv/lib/python3.6/site-packages/cffi/api.py" />
+      <jump line="464" column="31" filename="$USER_HOME$/Work/tcp-tl-70-80/server/virtualEnv/VirtualEnv/lib/python3.6/site-packages/cffi/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -260,7 +271,7 @@
         <text encoding="base64">ICAgICAgICB0cnk6</text>
       </register>
       <register name="/" type="4">
-        <text>hashTerminal</text>
+        <text>-1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTCA9IDUgKiA2MCAjNSBtaW5zCg==</text>
@@ -297,9 +308,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hashTerminal</last-search>
+      <last-search>-1</last-search>
       <last-offset />
-      <last-pattern>hashTerminal</last-pattern>
+      <last-pattern>-1</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -325,6 +336,7 @@
         <entry>terminalPassword</entry>
         <entry>shal</entry>
         <entry>hashTerminal</entry>
+        <entry>-1</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
