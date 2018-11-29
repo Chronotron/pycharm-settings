@@ -73,9 +73,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/embeddedClock/offlineEmployeeAuthenticationPresenterTest.py" timestamp="1543449300801">
-        <mark key="[" line="90" column="39" />
-      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/terminalSettingsPresenterTest.py" timestamp="1543443553321">
         <mark key="[" line="385" column="38" />
       </file>
@@ -105,9 +102,6 @@
         <mark key="[" line="121" column="78" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/terminalPasswordEntryHandler.py" timestamp="1543438191191" />
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/service/mockAuthenticationServiceImpl.py" timestamp="1543509737447">
-        <mark key="[" line="42" column="51" />
-      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/networkStatus/wirelessNetworkModel.py" timestamp="1490914481048">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="24" />
@@ -144,9 +138,6 @@
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/employeeBiometricEnrollmentPresenterTest.py" timestamp="1543443686503">
         <mark key="[" line="124" column="81" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/embeddedClock/employeeAuthenticationPresenterTest.py" timestamp="1543509520709">
-        <mark key="[" line="97" column="75" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/setup/terminalPasswordEntryPresenter.py" timestamp="1543425996161" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/wiredSetupHandler.py" timestamp="1490883309916">
@@ -186,9 +177,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/embeddedClock/offlineClockOperationPresenterTest.py" timestamp="1543443963415">
-        <mark key="[" line="348" column="86" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/apiNetworkInterfaceHandler.py" timestamp="1490883378320">
         <mark key="[" line="18" column="0" />
