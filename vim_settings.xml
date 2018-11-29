@@ -92,7 +92,7 @@
         <mark key="^" line="169" column="41" />
         <mark key="." line="170" column="45" />
       </file>
-      <file name="/Python Console" timestamp="1543527200528">
+      <file name="/Python Console" timestamp="1543530020949">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -141,10 +141,10 @@
         <mark key="]" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/application.py" timestamp="1543527197163">
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/application.py" timestamp="1543530012376">
         <mark key="'" line="6" column="7" />
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="47" column="56" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/forgotTerminalPasswordWindow.py" timestamp="1539268630229">
@@ -176,6 +176,12 @@
         <mark key="." line="67" column="85" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/adapter/cameraAdapterActual.py" timestamp="1543448987087" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/utility/scriptAdminister.py" timestamp="1543530128583">
+        <mark key="[" line="62" column="30" />
+        <mark key="]" line="62" column="30" />
+        <mark key="^" line="62" column="29" />
+        <mark key="." line="62" column="30" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpiTest/model/common/data/biometrics/biometricSpecDataTest.py" timestamp="1539116562359">
         <mark key="[" line="30" column="23" />
         <mark key="]" line="4" column="0" />
@@ -432,8 +438,8 @@
       <jump line="6" column="7" filename="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/application.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKSkK</text>
+      <register name="&quot;" type="4">
+        <text>.decode('utf-8')</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -478,7 +484,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>new_event_loop())</text>
+        <text>.decode('utf-8')</text>
       </register>
       <register name="/" type="4">
         <text>observer</text>
@@ -487,31 +493,31 @@
         <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKSkK</text>
+        <text encoding="base64">ICAgICAgICAjYXN5bmNpby5zZXRfZXZlbnRfbG9vcChhc3luY2lvLm5ld19ldmVudF9sb29wKCkpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCiAgICAgICAgbG9nZ2luZy5pbmZvKGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKS5fX2RpY3RfXykKICAgICAgICBsb2dnaW5nLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKSkK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCiAgICAgICAgbG9nZ2luZy5pbmZvKGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKS5fX2RpY3RfXykKICAgICAgICBsb2dnaW5nLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXN5bmNpby5zZXRfZXZlbnRfbG9vcChhc3luY2lvLm5ld19ldmVudF9sb29wKCkpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKSkK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXN5bmNpby5zZXRfZXZlbnRfbG9vcChhc3luY2lvLm5ld19ldmVudF9sb29wKCkpCg==</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKSkK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpZiBhc3luY2lvLmdldF9ldmVudF9sb29wKCk6CiAgICAgICAgICAgIGFzeW5jaW8uc2V0X2V2ZW50X2xvb3AoYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpKQogICAgICAgIGVsc2U6Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAgICAgYXN5bmNpby5zZXRfZXZlbnRfbG9vcChhc3luY2lvLm5ld19ldmVudF9sb29wKCkp</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>382</text>
