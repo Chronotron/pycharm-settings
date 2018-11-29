@@ -92,7 +92,7 @@
         <mark key="^" line="169" column="41" />
         <mark key="." line="170" column="45" />
       </file>
-      <file name="/Python Console" timestamp="1543516031670">
+      <file name="/Python Console" timestamp="1543522401152">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -141,10 +141,11 @@
         <mark key="]" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/application.py" timestamp="1543516043602">
-        <mark key="[" line="237" column="12" />
-        <mark key="]" line="237" column="60" />
-        <mark key="." line="237" column="0" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/application.py" timestamp="1543522469916">
+        <mark key="'" line="6" column="7" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/forgotTerminalPasswordWindow.py" timestamp="1539268630229">
         <mark key="[" line="1" column="14" />
@@ -422,10 +423,14 @@
       <jump line="292" column="35" filename="$USER_HOME$/Work/tcp-tl-70-80/server/virtualEnv/VirtualEnv/lib/python3.6/site-packages/cffi/api.py" />
       <jump line="327" column="33" filename="$USER_HOME$/Work/tcp-tl-70-80/server/virtualEnv/VirtualEnv/lib/python3.6/site-packages/cffi/api.py" />
       <jump line="464" column="31" filename="$USER_HOME$/Work/tcp-tl-70-80/server/virtualEnv/VirtualEnv/lib/python3.6/site-packages/cffi/api.py" />
+      <jump line="134" column="58" filename="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/application.py" />
+      <jump line="174" column="99" filename="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/application.py" />
+      <jump line="234" column="17" filename="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/application.py" />
+      <jump line="6" column="7" filename="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/application.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXN5bmNpby5zZXRfZXZlbnRfbG9vcChhc3luY2lvLm5ld19ldmVudF9sb29wKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCiAgICAgICAgbG9nZ2luZy5pbmZvKGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKS5fX2RpY3RfXykKICAgICAgICBsb2dnaW5nLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -473,46 +478,46 @@
         <text>new_event_loop())</text>
       </register>
       <register name="/" type="4">
-        <text>-1</text>
+        <text>observer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTCA9IDUgKiA2MCAjNSBtaW5zCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXN5bmNpby5zZXRfZXZlbnRfbG9vcChhc3luY2lvLm5ld19ldmVudF9sb29wKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCiAgICAgICAgbG9nZ2luZy5pbmZvKGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKS5fX2RpY3RfXykKICAgICAgICBsb2dnaW5nLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhc3luY2lvLmdldF9ldmVudF9sb29wKCk6CiAgICAgICAgICAgIGFzeW5jaW8uc2V0X2V2ZW50X2xvb3AoYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpKQogICAgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXN5bmNpby5zZXRfZXZlbnRfbG9vcChhc3luY2lvLm5ld19ldmVudF9sb29wKCkpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgYXN5bmNpby5zZXRfZXZlbnRfbG9vcChhc3luY2lvLm5ld19ldmVudF9sb29wKCkp</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBhc3luY2lvLmdldF9ldmVudF9sb29wKCk6CiAgICAgICAgICAgIGFzeW5jaW8uc2V0X2V2ZW50X2xvb3AoYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpKQogICAgICAgIGVsc2U6Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBfX2J1aWx0aW5fXyBpbXBvcnQgdW5pY29kZQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgYXN5bmNpby5zZXRfZXZlbnRfbG9vcChhc3luY2lvLm5ld19ldmVudF9sb29wKCkp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBtcGkucHJlc2VudGVyLmV4Y2VwdGlvbnMucHJlc2VudGF0aW9uRXhjZXB0aW9uIGltcG9ydCBQcmVzZW50YXRpb25FeGNlcHRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHJldHVybg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBfX2J1aWx0aW5fXyBpbXBvcnQgdW5pY29kZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTF9EQVlTID0gCg==</text>
+        <text encoding="base64">ZnJvbSBtcGkucHJlc2VudGVyLmV4Y2VwdGlvbnMucHJlc2VudGF0aW9uRXhjZXB0aW9uIGltcG9ydCBQcmVzZW50YXRpb25FeGNlcHRpb24K</text>
       </register>
       <register name=":" type="4">
         <text>382</text>
       </register>
     </registers>
     <search>
-      <last-search>-1</last-search>
+      <last-search>observer</last-search>
       <last-offset />
-      <last-pattern>-1</last-pattern>
+      <last-pattern>observer</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -539,6 +544,7 @@
         <entry>shal</entry>
         <entry>hashTerminal</entry>
         <entry>-1</entry>
+        <entry>observer</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
