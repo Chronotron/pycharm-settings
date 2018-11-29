@@ -41,9 +41,6 @@
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/websocket/request/fingerprintRequest.py" timestamp="1543509070518">
         <mark key="[" line="95" column="73" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/builder.py" timestamp="1543426099534">
-        <mark key="'" line="35" column="24" />
-      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/tornado/sudo-python.sh" timestamp="1490886406755">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -57,6 +54,11 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/testAdapter/testPlatformAdapter.py" timestamp="1543511046468">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/websocket/request/fingerprintEnrollmentRequest.py" timestamp="1543509042949">
         <mark key="[" line="62" column="73" />
@@ -90,12 +92,6 @@
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/setup/serverSettingsPresenter.py" timestamp="1543443155902" />
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/websocket/response/communicationStatusResponse.py" timestamp="1543449513329">
         <mark key="[" line="129" column="93" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-7.0.65-4880/server/src/mpi/adapter/abstractPlatformAdapter.py" timestamp="1543439190219">
-        <mark key="'" line="381" column="16" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/virtualEnv/VirtualEnv/lib/python3.6/site-packages/cffi/api.py" timestamp="1543445827014">
-        <mark key="'" line="464" column="31" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/terminalPasswordEntryPresenterTest.py" timestamp="1543443803384">
         <mark key="[" line="293" column="88" />
@@ -168,9 +164,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/builder.py" timestamp="1542057101573">
-        <mark key="'" line="80" column="78" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/pingHandler.py" timestamp="1490985839225">
         <mark key="[" line="10" column="0" />
@@ -258,7 +251,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBtcGkucHJlc2VudGVyLmV4Y2VwdGlvbnMucHJlc2VudGF0aW9uRXhjZXB0aW9uIGltcG9ydCBQcmVzZW50YXRpb25FeGNlcHRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -312,31 +305,31 @@
         <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTCA9IDUgKiA2MCAjNSBtaW5zCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBtcGkucHJlc2VudGVyLmV4Y2VwdGlvbnMucHJlc2VudGF0aW9uRXhjZXB0aW9uIGltcG9ydCBQcmVzZW50YXRpb25FeGNlcHRpb24K</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHJldHVybg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTF9EQVlTID0gCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTF9JTl9EQVlTID0gNSAgIzUgbWlucwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTF9JTl9EQVlTID0gNSAgIzUgbWlucwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsZWFyTG9nc09uU3RhcnR1cCgpCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGZpbmRDb21tYW5kID0gImZpbmQgezB9IC1tdGltZSArezF9IC10eXBlIGYiLmZvcm1hdChkaXJOYW1lLCBjbGVhckxvZ3NCZWZvcmVEYXlzKQogICAgZmluZE5vT2ZGaWxlc1RvRGVsZXRlQ29tbWFuZCA9ICJ7MH0gfCB3YyIuZm9ybWF0KGZpbmRDb21tYW5kKQogICAgbm9PZkZpbGVzVG9EZWxldGUgPSBzY3JpcHRBZG1pbmlzdHJhdG9yLmV4ZWN1dGVTaGVsbENvbW1hbmQoZmluZE5vT2ZGaWxlc1RvRGVsZXRlQ29tbWFuZCk=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBfX2J1aWx0aW5fXyBpbXBvcnQgdW5pY29kZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBtcGkucHJlc2VudGVyLmV4Y2VwdGlvbnMucHJlc2VudGF0aW9uRXhjZXB0aW9uIGltcG9ydCBQcmVzZW50YXRpb25FeGNlcHRpb24K</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHJldHVybg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTF9EQVlTID0gCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTF9JTl9EQVlTID0gNSAgIzUgbWlucwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTF9JTl9EQVlTID0gNSAgIzUgbWlucwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNsZWFyTG9nc09uU3RhcnR1cCgpCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGZpbmRDb21tYW5kID0gImZpbmQgezB9IC1tdGltZSArezF9IC10eXBlIGYiLmZvcm1hdChkaXJOYW1lLCBjbGVhckxvZ3NCZWZvcmVEYXlzKQogICAgZmluZE5vT2ZGaWxlc1RvRGVsZXRlQ29tbWFuZCA9ICJ7MH0gfCB3YyIuZm9ybWF0KGZpbmRDb21tYW5kKQogICAgbm9PZkZpbGVzVG9EZWxldGUgPSBzY3JpcHRBZG1pbmlzdHJhdG9yLmV4ZWN1dGVTaGVsbENvbW1hbmQoZmluZE5vT2ZGaWxlc1RvRGVsZXRlQ29tbWFuZCk=</text>
       </register>
       <register name=":" type="4">
         <text>382</text>
