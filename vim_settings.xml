@@ -19,8 +19,8 @@
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/userAuthenticationPresenterTest.py" timestamp="1543443591623">
         <mark key="[" line="180" column="106" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/websocket/request/fingerprintAuthenticationRequest.py" timestamp="1543443958375">
-        <mark key="[" line="68" column="83" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/websocket/request/fingerprintAuthenticationRequest.py" timestamp="1543509007941">
+        <mark key="[" line="68" column="73" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/userBiometricEnrollmentPresenterTest.py" timestamp="1543443501736">
         <mark key="[" line="139" column="81" />
@@ -38,8 +38,8 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/websocket/request/fingerprintRequest.py" timestamp="1543449440097">
-        <mark key="[" line="109" column="83" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/websocket/request/fingerprintRequest.py" timestamp="1543509070518">
+        <mark key="[" line="95" column="73" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/builder.py" timestamp="1543426099534">
         <mark key="'" line="35" column="24" />
@@ -58,8 +58,8 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/websocket/request/fingerprintEnrollmentRequest.py" timestamp="1543449481296">
-        <mark key="[" line="61" column="103" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/websocket/request/fingerprintEnrollmentRequest.py" timestamp="1543509042949">
+        <mark key="[" line="62" column="73" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/resources/constants.py" timestamp="1539211605440">
         <mark key="[" line="9" column="0" />
@@ -109,6 +109,9 @@
         <mark key="[" line="121" column="78" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/terminalPasswordEntryHandler.py" timestamp="1543438191191" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/service/mockAuthenticationServiceImpl.py" timestamp="1543509737447">
+        <mark key="[" line="42" column="51" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/networkStatus/wirelessNetworkModel.py" timestamp="1490914481048">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="24" />
@@ -138,11 +141,16 @@
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/domain/fingerprintSpecSaveFacade.py" timestamp="1543449345456">
         <mark key="[" line="63" column="39" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/embeddedClock/employeeAuthenticationPresenter.py" timestamp="1543510065191">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/employeeBiometricEnrollmentPresenterTest.py" timestamp="1543443686503">
         <mark key="[" line="124" column="81" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/embeddedClock/employeeAuthenticationPresenterTest.py" timestamp="1543449409313">
-        <mark key="[" line="214" column="78" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/embeddedClock/employeeAuthenticationPresenterTest.py" timestamp="1543509520709">
+        <mark key="[" line="97" column="75" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/setup/terminalPasswordEntryPresenter.py" timestamp="1543425996161" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/wiredSetupHandler.py" timestamp="1490883309916">
@@ -150,7 +158,7 @@
         <mark key="]" line="16" column="21" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543507815409">
+      <file name="/Dummy.txt" timestamp="1543509260243">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -178,8 +186,8 @@
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/companyTerminalPresenterTest.py" timestamp="1543443490104">
         <mark key="[" line="100" column="83" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/webSocketHandler.py" timestamp="1543449496801">
-        <mark key="[" line="83" column="71" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/webSocketHandler.py" timestamp="1543508977593">
+        <mark key="[" line="83" column="54" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/adapter/abstractNetworkInterfaceAdapter.py" timestamp="1490914572033">
         <mark key="[" line="0" column="0" />
@@ -249,8 +257,8 @@
       <jump line="464" column="31" filename="$USER_HOME$/Work/tcp-tl-70-80/server/virtualEnv/VirtualEnv/lib/python3.6/site-packages/cffi/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICB0cnk6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBtcGkucHJlc2VudGVyLmV4Y2VwdGlvbnMucHJlc2VudGF0aW9uRXhjZXB0aW9uIGltcG9ydCBQcmVzZW50YXRpb25FeGNlcHRpb24K</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -303,32 +311,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTCA9IDUgKiA2MCAjNSBtaW5zCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBtcGkucHJlc2VudGVyLmV4Y2VwdGlvbnMucHJlc2VudGF0aW9uRXhjZXB0aW9uIGltcG9ydCBQcmVzZW50YXRpb25FeGNlcHRpb24K</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHJldHVybg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTF9EQVlTID0gCg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTF9JTl9EQVlTID0gNSAgIzUgbWlucwo=</text>
+        <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTF9EQVlTID0gCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTF9JTl9EQVlTID0gNSAgIzUgbWlucwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIERFRkFVTFRfUFVSR0VfTE9HU19JTlRFUlZBTF9JTl9EQVlTID0gNSAgIzUgbWlucwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNsZWFyTG9nc09uU3RhcnR1cCgpCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIGZpbmRDb21tYW5kID0gImZpbmQgezB9IC1tdGltZSArezF9IC10eXBlIGYiLmZvcm1hdChkaXJOYW1lLCBjbGVhckxvZ3NCZWZvcmVEYXlzKQogICAgZmluZE5vT2ZGaWxlc1RvRGVsZXRlQ29tbWFuZCA9ICJ7MH0gfCB3YyIuZm9ybWF0KGZpbmRDb21tYW5kKQogICAgbm9PZkZpbGVzVG9EZWxldGUgPSBzY3JpcHRBZG1pbmlzdHJhdG9yLmV4ZWN1dGVTaGVsbENvbW1hbmQoZmluZE5vT2ZGaWxlc1RvRGVsZXRlQ29tbWFuZCk=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiQ2xlYXJpbmcgbG9ncyBvbiBzdGFydHVwLi4uIikKICAgIGNsZWFyTG9ncygpCiAgICBsb2dnaW5nLmluZm8oIkxvZ3MgY2xlYXJlZCIpCgo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>382</text>
