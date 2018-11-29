@@ -92,7 +92,7 @@
         <mark key="^" line="169" column="41" />
         <mark key="." line="170" column="45" />
       </file>
-      <file name="/Python Console" timestamp="1543530020949">
+      <file name="/Python Console" timestamp="1543530518128">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -146,6 +146,13 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/server.py" timestamp="1543530894840">
+        <mark key="'" line="332" column="31" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="46" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/forgotTerminalPasswordWindow.py" timestamp="1539268630229">
         <mark key="[" line="1" column="14" />
@@ -290,6 +297,7 @@
         <mark key="." line="98" column="57" />
         <mark key="^" line="98" column="57" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/domain/applicationConfiguration.py" timestamp="1543530695492" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/networkStatus/wirelessNetworkModel.py" timestamp="1490914481048">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="24" />
@@ -305,11 +313,6 @@
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/domain/fingerprintSpecSaveFacade.py" timestamp="1543449345456">
         <mark key="[" line="63" column="39" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/embeddedClock/employeeAuthenticationPresenter.py" timestamp="1543510788051">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/employeeBiometricEnrollmentPresenterTest.py" timestamp="1543512205430">
         <mark key="[" line="295" column="68" />
@@ -436,10 +439,14 @@
       <jump line="174" column="99" filename="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/application.py" />
       <jump line="234" column="17" filename="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/application.py" />
       <jump line="6" column="7" filename="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/application.py" />
+      <jump line="214" column="36" filename="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/server.py" />
+      <jump line="319" column="8" filename="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/server.py" />
+      <jump line="318" column="29" filename="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/server.py" />
+      <jump line="332" column="31" filename="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/server.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.decode('utf-8')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGJ1aWxkZXIK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -487,46 +494,46 @@
         <text>.decode('utf-8')</text>
       </register>
       <register name="/" type="4">
-        <text>observer</text>
+        <text>event</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjYXN5bmNpby5zZXRfZXZlbnRfbG9vcChhc3luY2lvLm5ld19ldmVudF9sb29wKCkpCg==</text>
+        <text encoding="base64">aW1wb3J0IGJ1aWxkZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKSkK</text>
+        <text encoding="base64">ICAgICAgICAjYXN5bmNpby5zZXRfZXZlbnRfbG9vcChhc3luY2lvLm5ld19ldmVudF9sb29wKCkpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCiAgICAgICAgbG9nZ2luZy5pbmZvKGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKS5fX2RpY3RfXykKICAgICAgICBsb2dnaW5nLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKSkK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCiAgICAgICAgbG9nZ2luZy5pbmZvKGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKS5fX2RpY3RfXykKICAgICAgICBsb2dnaW5nLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXN5bmNpby5zZXRfZXZlbnRfbG9vcChhc3luY2lvLm5ld19ldmVudF9sb29wKCkpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhc3luY2lvLmdldF9ldmVudF9sb29wKCk6CiAgICAgICAgICAgIGFzeW5jaW8uc2V0X2V2ZW50X2xvb3AoYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpKQogICAgICAgIGVsc2U6Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXN5bmNpby5zZXRfZXZlbnRfbG9vcChhc3luY2lvLm5ld19ldmVudF9sb29wKCkpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgYXN5bmNpby5zZXRfZXZlbnRfbG9vcChhc3luY2lvLm5ld19ldmVudF9sb29wKCkp</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBhc3luY2lvLmdldF9ldmVudF9sb29wKCk6CiAgICAgICAgICAgIGFzeW5jaW8uc2V0X2V2ZW50X2xvb3AoYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpKQogICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>382</text>
       </register>
     </registers>
     <search>
-      <last-search>observer</last-search>
+      <last-search>event</last-search>
       <last-offset />
-      <last-pattern>observer</last-pattern>
+      <last-pattern>event</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -534,7 +541,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
         <entry encoding="base64">XDxuZXR3b3JrXD4=</entry>
         <entry>wireless-net</entry>
         <entry>upper</entry>
@@ -554,6 +560,7 @@
         <entry>hashTerminal</entry>
         <entry>-1</entry>
         <entry>observer</entry>
+        <entry>event</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
