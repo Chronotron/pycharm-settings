@@ -73,6 +73,9 @@
         <mark key="^" line="122" column="3" />
         <mark key="." line="122" column="3" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/virtualEnv/VirtualEnv/lib/python3.6/site-packages/cffi/api.py" timestamp="1543445827014">
+        <mark key="'" line="464" column="31" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/adapter/abstractFingerprintAdapter.py" timestamp="1539120694253">
         <mark key="[" line="86" column="22" />
         <mark key="]" line="91" column="27" />
@@ -147,7 +150,7 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/server.py" timestamp="1543531777195" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/server.py" timestamp="1543532084722" />
       <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/forgotTerminalPasswordWindow.py" timestamp="1539268630229">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="91" column="0" />
@@ -177,7 +180,7 @@
         <mark key="." line="67" column="85" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/adapter/cameraAdapterActual.py" timestamp="1543448987087" />
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/utility/scriptAdminister.py" timestamp="1543530128583">
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/utility/scriptAdminister.py" timestamp="1543532080186">
         <mark key="[" line="62" column="30" />
         <mark key="]" line="62" column="30" />
         <mark key="^" line="62" column="29" />
@@ -259,6 +262,9 @@
         <mark key="^" line="385" column="74" />
         <mark key="." line="385" column="74" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/common/switchApplicationPresenter.py" timestamp="1543535446546">
+        <mark key="[" line="17" column="47" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/presenter/setup/pingPresenter.py" timestamp="1490985580831">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="8" />
@@ -271,6 +277,9 @@
         <mark key="." line="13" column="29" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/setup/serverSettingsPresenter.py" timestamp="1543443155902" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-7.0.65-4880/server/src/mpi/adapter/abstractPlatformAdapter.py" timestamp="1543439190219">
+        <mark key="'" line="381" column="16" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/bootMenuWindow.py" timestamp="1539268280821">
         <mark key="[" line="36" column="55" />
         <mark key="]" line="36" column="55" />
@@ -308,11 +317,15 @@
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/domain/fingerprintSpecSaveFacade.py" timestamp="1543449345456">
         <mark key="[" line="63" column="39" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/switchApplicationHandler.py" timestamp="1543535341271" />
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/employeeBiometricEnrollmentPresenterTest.py" timestamp="1543512205430">
         <mark key="[" line="295" column="68" />
         <mark key="]" line="283" column="73" />
         <mark key="^" line="283" column="73" />
         <mark key="." line="283" column="73" />
+      </file>
+      <file name="/usr/local/lib/python3.6/subprocess.py" timestamp="1543532144308">
+        <mark key="'" line="593" column="33" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/presenter/setup/wirelessNetworkSetupPresenter.py" timestamp="1490984721639">
         <mark key="[" line="14" column="46" />
@@ -333,11 +346,14 @@
         <mark key="^" line="19" column="61" />
         <mark key="." line="21" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543531801708">
+      <file name="/Dummy.txt" timestamp="1543535503835">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/builder.py" timestamp="1542057101573">
+        <mark key="'" line="80" column="78" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/offlineStoragePresenterTest.py" timestamp="1543512248503">
         <mark key="[" line="40" column="73" />
@@ -371,6 +387,7 @@
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/component/barcodeReaderComponent.py" timestamp="1543449357217">
         <mark key="[" line="48" column="39" />
       </file>
+      <file name="/scriptAdminister.py" timestamp="1543535532496" />
       <file name="$USER_HOME$/PycharmProjects/TestProject/ResetPasswordUtility.py" timestamp="1539269401671">
         <mark key="[" line="14" column="27" />
         <mark key="]" line="14" column="26" />
@@ -438,6 +455,10 @@
       <jump line="318" column="29" filename="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/server.py" />
       <jump line="332" column="31" filename="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/server.py" />
       <jump line="19" column="12" filename="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/server.py" />
+      <jump line="294" column="4" filename="/usr/local/lib/python3.6/subprocess.py" />
+      <jump line="499" column="4" filename="/usr/local/lib/python3.6/subprocess.py" />
+      <jump line="579" column="37" filename="/usr/local/lib/python3.6/subprocess.py" />
+      <jump line="593" column="33" filename="/usr/local/lib/python3.6/subprocess.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -489,7 +510,7 @@
         <text>.decode('utf-8')</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBsaWNhdGlvbkNvbmZpZ3VyYXRpb25cPg==</text>
+        <text>encoding</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
@@ -526,9 +547,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBsaWNhdGlvbkNvbmZpZ3VyYXRpb25cPg==</last-search>
+      <last-search>encoding</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBsaWNhdGlvbkNvbmZpZ3VyYXRpb25cPg==</last-pattern>
+      <last-pattern>encoding</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -536,7 +557,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wireless-net</entry>
         <entry>upper</entry>
         <entry>In progress</entry>
         <entry encoding="base64">XDxpc09ubGluZVw+</entry>
@@ -556,6 +576,7 @@
         <entry>observer</entry>
         <entry>event</entry>
         <entry encoding="base64">XDxhcHBsaWNhdGlvbkNvbmZpZ3VyYXRpb25cPg==</entry>
+        <entry>encoding</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
