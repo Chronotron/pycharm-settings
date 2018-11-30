@@ -99,7 +99,7 @@
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/embeddedClock/offlineHeaderPresenterTest.py" timestamp="1543513950724">
         <mark key="[" line="72" column="38" />
       </file>
-      <file name="/Python Console" timestamp="1543536915940">
+      <file name="/Python Console" timestamp="1543537008571">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -179,6 +179,12 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/adapter/cameraAdapterActual.py" timestamp="1543448987087" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/utility/scriptAdminister.py" timestamp="1543537003232">
+        <mark key="[" line="62" column="30" />
+        <mark key="]" line="62" column="30" />
+        <mark key="^" line="62" column="29" />
+        <mark key="." line="62" column="30" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/peripheralsWindow.py" timestamp="1539268763989">
         <mark key="[" line="20" column="29" />
       </file>
@@ -274,6 +280,12 @@
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/switchApplicationHandler.py" timestamp="1543536282384">
         <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/employeeBiometricEnrollmentPresenterTest.py" timestamp="1543512205430">
+        <mark key="[" line="295" column="68" />
+        <mark key="]" line="283" column="73" />
+        <mark key="^" line="283" column="73" />
+        <mark key="." line="283" column="73" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/manageNetworkHandler.py" timestamp="1543536220527">
         <mark key="[" line="7" column="44" />
@@ -375,8 +387,8 @@
       <jump line="593" column="33" filename="/usr/local/lib/python3.6/subprocess.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.decode('utf-8')</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -421,7 +433,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>all for hashing as per the python3+ requirement, should also work for python2.7</text>
+        <text>.decode('utf-8')</text>
       </register>
       <register name="/" type="4">
         <text>encoding</text>
