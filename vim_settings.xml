@@ -62,7 +62,7 @@
         <mark key="]" line="12" column="43" />
         <mark key="." line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/websocket/response/communicationStatusResponse.py" timestamp="1543531372979">
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/websocket/response/communicationStatusResponse.py" timestamp="1543589845395">
         <mark key="[" line="129" column="93" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/networkSettingsMenuHandler.py" timestamp="1543536228559">
@@ -164,7 +164,7 @@
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/offlineCostCodeHandler.py" timestamp="1543536240240">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/server.py" timestamp="1543532084722" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/server.py" timestamp="1543537806937" />
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/update/updatePresenter.py" timestamp="1543536614719">
         <mark key="[" line="13" column="0" />
       </file>
@@ -299,12 +299,13 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/setup/terminalPasswordEntryPresenter.py" timestamp="1543425996161" />
-      <file name="/Dummy.txt" timestamp="1543536721031">
+      <file name="/Dummy.txt" timestamp="1543590188384">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/domain/serverConfigState.py" timestamp="1543537779002" />
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/offlineStoragePresenterTest.py" timestamp="1543512248503">
         <mark key="[" line="40" column="73" />
       </file>
@@ -388,7 +389,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.decode('utf-8')</text>
+        <text>modified the call for hashing as per the python3+ requirement, should also work for python2.7</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -433,7 +434,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.decode('utf-8')</text>
+        <text>modified the call for hashing as per the python3+ requirement, should also work for python2.7</text>
       </register>
       <register name="/" type="4">
         <text>encoding</text>
