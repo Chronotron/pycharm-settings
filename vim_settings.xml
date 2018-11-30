@@ -11,12 +11,6 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/networkingWindow.py" timestamp="1539208472035">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="4" />
-      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/userAuthenticationPresenterTest.py" timestamp="1543512915926">
         <mark key="[" line="180" column="96" />
       </file>
@@ -26,38 +20,42 @@
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/facade/platformFacade.py" timestamp="1543507905831">
         <mark key="[" line="43" column="99" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/bootCalendar.py" timestamp="1513636991650">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="29" />
-        <mark key="." line="1" column="29" />
-        <mark key="^" line="1" column="29" />
-      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/terminalConfigurationHandler.py" timestamp="1543536960238" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/adapter/networkInterfaceAdapterTest.py" timestamp="1490910572050">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/restartTerminalHandler.py" timestamp="1543536265743">
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/websocket/request/fingerprintRequest.py" timestamp="1543509070518">
         <mark key="[" line="95" column="73" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/adapter/audioAdapterDev.py" timestamp="1543535987218">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpiTest/presenter/abstractPresenterTest.py" timestamp="1540330651223">
         <mark key="[" line="62" column="34" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/terminalPasswordHandler.py" timestamp="1543426111625" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/terminalPasswordHandler.py" timestamp="1543536319231">
+        <mark key="[" line="1" column="54" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/websocket/request/fingerprintEnrollmentRequest.py" timestamp="1543509042949">
         <mark key="[" line="62" column="73" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/domain/serverConfigState.py" timestamp="1542066231874">
-        <mark key="[" line="33" column="40" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="38" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/terminalSessionValidateHelper.py" timestamp="1543536327839">
+        <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpiTest/facade/fingerPrintFacadeTest.py" timestamp="1539121954502">
-        <mark key="[" line="152" column="18" />
-        <mark key="]" line="152" column="18" />
-        <mark key="^" line="152" column="24" />
-        <mark key="." line="152" column="18" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/helper/employeeAuthenticationHelper.py" timestamp="1543536427601">
+        <mark key="[" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/abstractHandler.py" timestamp="1543536147200">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/domain/userSession.py" timestamp="1540330599815">
         <mark key="[" line="12" column="43" />
@@ -67,35 +65,41 @@
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/websocket/response/communicationStatusResponse.py" timestamp="1543531372979">
         <mark key="[" line="129" column="93" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/service/abstractServiceImpl.py" timestamp="1540848887921">
-        <mark key="[" line="122" column="3" />
-        <mark key="]" line="122" column="3" />
-        <mark key="^" line="122" column="3" />
-        <mark key="." line="122" column="3" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/networkSettingsMenuHandler.py" timestamp="1543536228559">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/virtualEnv/VirtualEnv/lib/python3.6/site-packages/cffi/api.py" timestamp="1543445827014">
-        <mark key="'" line="464" column="31" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/pingHandler.py" timestamp="1543536261583">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/adapter/abstractFingerprintAdapter.py" timestamp="1539120694253">
-        <mark key="[" line="86" column="22" />
-        <mark key="]" line="91" column="27" />
-        <mark key="^" line="91" column="27" />
-        <mark key="." line="91" column="27" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/setup/terminalPasswordPresenter.py" timestamp="1543536570975">
+        <mark key="[" line="2" column="106" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/badgeTestPresenterTest.py" timestamp="1543512068935">
         <mark key="[" line="121" column="68" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/terminalPasswordEntryHandler.py" timestamp="1543438191191" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/terminalPasswordEntryHandler.py" timestamp="1543536308194">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/employeeBiometricEnrollmentHandler.py" timestamp="1543536195840">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/checkConnectionHandler.py" timestamp="1543536182351">
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/embeddedClock/offlineHeaderPresenterTest.py" timestamp="1543513950724">
         <mark key="[" line="72" column="38" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/facade/fingerprintFacade.py" timestamp="1539119841198">
-        <mark key="[" line="170" column="45" />
-        <mark key="]" line="170" column="45" />
-        <mark key="^" line="169" column="41" />
-        <mark key="." line="170" column="45" />
-      </file>
-      <file name="/Python Console" timestamp="1543531786191">
+      <file name="/Python Console" timestamp="1543536915940">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -105,24 +109,35 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/wirelessNetworkSetup/wirelessNetworkSetupContext.py" timestamp="1490911890163">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="13" column="74" />
-        <mark key="^" line="13" column="74" />
-        <mark key="." line="13" column="74" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/adapter/fingerprintAdapterDev.py" timestamp="1543536083633">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/offlineHeaderHandler.py" timestamp="1543536249585">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/employeePinHandler.py" timestamp="1543536205440">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/setup/abstractNetworkConfigPresenter.py" timestamp="1543536498817">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/wiredSetupHandler.py" timestamp="1490883309916">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="21" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/abstractRequestHandler.py" timestamp="1490882488889">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="22" />
-      </file>
       <file name="/usr/local/lib/python3.6/asyncio/events.py" timestamp="1543514561837" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/setup/networkSettingsMenuPresenter.py" timestamp="1543536521216">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/cameraTestHandler.py" timestamp="1490883336980">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="21" />
@@ -133,24 +148,26 @@
         <mark key="]" line="10" column="21" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpiTest/service/authenticationServiceTest.py" timestamp="1540330991884">
-        <mark key="[" line="81" column="37" />
-        <mark key="]" line="81" column="37" />
-        <mark key="." line="81" column="37" />
-        <mark key="^" line="81" column="37" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/offlineEmployeeAuthenticationHandler.py" timestamp="1543536244816">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/apiNetworkInterfaceHandler.py" timestamp="1490883378320">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/application.py" timestamp="1543530012376">
-        <mark key="'" line="5" column="7" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/apiBackgroundHandler.py" timestamp="1543536155586">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/offlineCostCodeHandler.py" timestamp="1543536240240">
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/server.py" timestamp="1543532084722" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/update/updatePresenter.py" timestamp="1543536614719">
+        <mark key="[" line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/forgotTerminalPasswordWindow.py" timestamp="1539268630229">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="91" column="0" />
@@ -161,85 +178,33 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/terminalPasswordLoginWindow.py" timestamp="1539268699845">
-        <mark key="[" line="35" column="72" />
-        <mark key="]" line="66" column="81" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="62" column="78" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/handlerHelper.py" timestamp="1490888614610">
-        <mark key="[" line="8" column="101" />
-        <mark key="]" line="8" column="101" />
-        <mark key="." line="8" column="101" />
-        <mark key="^" line="8" column="56" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/abstractUpdate.py" timestamp="1542231008762">
-        <mark key="[" line="195" column="29" />
-        <mark key="]" line="67" column="85" />
-        <mark key="^" line="67" column="85" />
-        <mark key="." line="67" column="85" />
-      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/adapter/cameraAdapterActual.py" timestamp="1543448987087" />
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/utility/scriptAdminister.py" timestamp="1543532080186">
-        <mark key="[" line="62" column="30" />
-        <mark key="]" line="62" column="30" />
-        <mark key="^" line="62" column="29" />
-        <mark key="." line="62" column="30" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpiTest/model/common/data/biometrics/biometricSpecDataTest.py" timestamp="1539116562359">
-        <mark key="[" line="30" column="23" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/peripheralsWindow.py" timestamp="1539268763989">
         <mark key="[" line="20" column="29" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/adapter/cameraAdapter.h" timestamp="1543446040909" />
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/userBiometricEnrollmentPresenterTest.py" timestamp="1543513072325">
-        <mark key="[" line="181" column="68" />
-        <mark key="]" line="202" column="73" />
-        <mark key="^" line="202" column="73" />
-        <mark key="." line="202" column="73" />
-      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/wirelessNetworkSetupHandler.py" timestamp="1490979273310">
         <mark key="[" line="22" column="97" />
         <mark key="]" line="26" column="8" />
         <mark key="." line="26" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/B101/experiments.py" timestamp="1512164798281">
-        <mark key="[" line="87" column="56" />
-        <mark key="]" line="61" column="40" />
-        <mark key="." line="61" column="40" />
-        <mark key="^" line="61" column="40" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpiTest/presenter/embeddedClock/employeeAuthenticationPresenterTest.py" timestamp="1539121286577">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="94" column="84" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/tornado/builder.py" timestamp="1543526628843">
-        <mark key="'" line="35" column="24" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/adapter/cameraAdapterDev.py" timestamp="1543536013552">
+        <mark key="[" line="7" column="69" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/tornado/sudo-python.sh" timestamp="1490886406755">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/setup/terminalSettingsPresenter.py" timestamp="1543536578335">
+        <mark key="[" line="6" column="106" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/wirelessSetupHandler.py" timestamp="1490883329724">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/resources/presentationConstants.py" timestamp="1513619037407">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="68" column="0" />
-        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/testAdapter/testPlatformAdapter.py" timestamp="1543511046468">
         <mark key="[" line="2" column="0" />
@@ -251,16 +216,15 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/setupMainMenuHandler.py" timestamp="1543536275713">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/manageNetworkHandler.py" timestamp="1490979301063">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/terminalSettingsPresenterTest.py" timestamp="1543512563895">
-        <mark key="[" line="405" column="32" />
-        <mark key="]" line="385" column="74" />
-        <mark key="^" line="385" column="74" />
-        <mark key="." line="385" column="74" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/common/switchApplicationPresenter.py" timestamp="1543535446546">
         <mark key="[" line="17" column="47" />
@@ -270,21 +234,10 @@
         <mark key="]" line="14" column="8" />
         <mark key="." line="14" column="8" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/terminalPasswordSetupWindow.py" timestamp="1539268335901">
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="29" />
-        <mark key="^" line="13" column="29" />
-        <mark key="." line="13" column="29" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/setup/serverSettingsPresenter.py" timestamp="1543443155902" />
-      <file name="$USER_HOME$/Work/tcp-tl-70-7.0.65-4880/server/src/mpi/adapter/abstractPlatformAdapter.py" timestamp="1543439190219">
-        <mark key="'" line="381" column="16" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/bootMenuWindow.py" timestamp="1539268280821">
-        <mark key="[" line="36" column="55" />
-        <mark key="]" line="36" column="55" />
-        <mark key="." line="36" column="55" />
-        <mark key="^" line="31" column="26" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/setup/serverSettingsPresenter.py" timestamp="1543536554403">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/terminalPasswordEntryPresenterTest.py" timestamp="1543512423159">
         <mark key="[" line="166" column="48" />
@@ -293,12 +246,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/service/authenticationServiceImpl.py" timestamp="1540847964610">
-        <mark key="[" line="98" column="57" />
-        <mark key="]" line="98" column="57" />
-        <mark key="." line="98" column="57" />
-        <mark key="^" line="98" column="57" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/domain/applicationConfiguration.py" timestamp="1543530695492" />
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/networkStatus/wirelessNetworkModel.py" timestamp="1490914481048">
@@ -314,55 +261,40 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/operationFeedbackHandler.py" timestamp="1543536255874">
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/domain/fingerprintSpecSaveFacade.py" timestamp="1543449345456">
         <mark key="[" line="63" column="39" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/switchApplicationHandler.py" timestamp="1543535341271" />
-      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/employeeBiometricEnrollmentPresenterTest.py" timestamp="1543512205430">
-        <mark key="[" line="295" column="68" />
-        <mark key="]" line="283" column="73" />
-        <mark key="^" line="283" column="73" />
-        <mark key="." line="283" column="73" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/embeddedClock/employeeAuthenticationPresenter.py" timestamp="1543510788051">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="/usr/local/lib/python3.6/subprocess.py" timestamp="1543532144308">
-        <mark key="'" line="593" column="33" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/switchApplicationHandler.py" timestamp="1543536282384">
+        <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/presenter/setup/wirelessNetworkSetupPresenter.py" timestamp="1490984721639">
-        <mark key="[" line="14" column="46" />
-        <mark key="]" line="14" column="49" />
-        <mark key="." line="14" column="49" />
-        <mark key="^" line="14" column="49" />
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/manageNetworkHandler.py" timestamp="1543536220527">
+        <mark key="[" line="7" column="44" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/cameraHandler.py" timestamp="1543536178208">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/adapter/deviceAdapterActual.py" timestamp="1543536023458">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/presenter/setup/terminalPasswordEntryPresenter.py" timestamp="1543425996161" />
-      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/abstractWindow.py" timestamp="1539268106173">
-        <mark key="[" line="76" column="83" />
-        <mark key="]" line="76" column="93" />
-        <mark key="^" line="76" column="93" />
-        <mark key="." line="76" column="93" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/abstractPresenter.py" timestamp="1539120406693">
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="21" column="54" />
-        <mark key="^" line="19" column="61" />
-        <mark key="." line="21" column="54" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1543535503835">
+      <file name="/Dummy.txt" timestamp="1543536721031">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
         <mark key="o" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/builder.py" timestamp="1542057101573">
-        <mark key="'" line="80" column="78" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/offlineStoragePresenterTest.py" timestamp="1543512248503">
         <mark key="[" line="40" column="73" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/model/sup/setup/src/wirelessNetworkSetup/wirelessNetworkSetupData.py" timestamp="1490911854361">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="28" />
-        <mark key="^" line="16" column="28" />
-        <mark key="." line="16" column="28" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/terminalPasswordPresenterTest.py" timestamp="1543512499158">
         <mark key="[" line="62" column="74" />
@@ -370,44 +302,26 @@
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpiTest/presenter/setup/companyTerminalPresenterTest.py" timestamp="1543512099735">
         <mark key="[" line="89" column="86" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/updateHandler.py" timestamp="1543536353840">
+        <mark key="[" line="1" column="54" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/webSocketHandler.py" timestamp="1543508977593">
         <mark key="[" line="83" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/homework/chaos-beast/MA120/probability/probality_functions.py" timestamp="1499558174238">
-        <mark key="[" line="48" column="4" />
-        <mark key="]" line="48" column="7" />
-        <mark key="." line="48" column="7" />
-        <mark key="^" line="48" column="7" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/adapter/abstractNetworkInterfaceAdapter.py" timestamp="1490914572033">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/handler/companyTerminalHandler.py" timestamp="1543536187631">
+        <mark key="[" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/component/barcodeReaderComponent.py" timestamp="1543449357217">
         <mark key="[" line="48" column="39" />
       </file>
-      <file name="/scriptAdminister.py" timestamp="1543535532496" />
-      <file name="$USER_HOME$/PycharmProjects/TestProject/ResetPasswordUtility.py" timestamp="1539269401671">
-        <mark key="[" line="14" column="27" />
-        <mark key="]" line="14" column="26" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="14" column="26" />
-      </file>
+      <file name="/scriptAdminister.py" timestamp="1543535569648" />
       <file name="$USER_HOME$/Work/tcp-tl-70-80/server/src/mpi/utility/sharedObjectLoader.py" timestamp="1543443484392">
         <mark key="[" line="65" column="43" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/common/data/biometrics/biometricSpecData.py" timestamp="1539116595031">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="26" />
-        <mark key="." line="6" column="26" />
-        <mark key="^" line="6" column="26" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/bootMenuUpdate.py" timestamp="1542215149298">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="13" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -462,7 +376,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGJ1aWxkZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -507,7 +421,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.decode('utf-8')</text>
+        <text>all for hashing as per the python3+ requirement, should also work for python2.7</text>
       </register>
       <register name="/" type="4">
         <text>encoding</text>
@@ -516,31 +430,31 @@
         <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGJ1aWxkZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjYXN5bmNpby5zZXRfZXZlbnRfbG9vcChhc3luY2lvLm5ld19ldmVudF9sb29wKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCiAgICAgICAgbG9nZ2luZy5pbmZvKGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKS5fX2RpY3RfXykKICAgICAgICBsb2dnaW5nLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXN5bmNpby5zZXRfZXZlbnRfbG9vcChhc3luY2lvLm5ld19ldmVudF9sb29wKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhc3luY2lvLmdldF9ldmVudF9sb29wKCk6CiAgICAgICAgICAgIGFzeW5jaW8uc2V0X2V2ZW50X2xvb3AoYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpKQogICAgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>382</text>
@@ -603,6 +517,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
