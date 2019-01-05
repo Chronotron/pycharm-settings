@@ -67,8 +67,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/apiServerSettingWindow.py" timestamp="1546647058165">
-        <mark key="[" line="180" column="74" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/view/apiServerSettingWindow.py" timestamp="1546648220306">
+        <mark key="[" line="181" column="74" />
+        <mark key="]" line="113" column="39" />
+        <mark key="^" line="113" column="39" />
+        <mark key="." line="113" column="39" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpiTest/presenter/abstractPresenterTest.py" timestamp="1540330651223">
         <mark key="[" line="62" column="34" />
