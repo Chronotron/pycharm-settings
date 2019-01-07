@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/testMainMenuHandler.py" timestamp="1490883285823">
@@ -231,9 +231,9 @@
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/messageBox.py" timestamp="1546897636290">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="37" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/platform/etc/opt/tcp-bm-70/src/messageBox.py" timestamp="1546897719505">
+        <mark key="[" line="256" column="19" />
+        <mark key="]" line="256" column="18" />
         <mark key="." line="80" column="4" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/handler/badgeTestHandler.py" timestamp="1490883343100">
@@ -326,8 +326,8 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Z2kucmVxdWlyZV92ZXJzaW9uKCdHdGsnLCAnMy4wJykKZnJvbSBnaS5yZXBvc2l0b3J5IGltcG9ydCBHdGssIEdPYmplY3QK</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="l" type="4">
         <keys>
@@ -377,8 +377,8 @@
       <register name="/" type="4">
         <text>encoding</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Z2kucmVxdWlyZV92ZXJzaW9uKCdHdGsnLCAnMy4wJykKZnJvbSBnaS5yZXBvc2l0b3J5IGltcG9ydCBHdGssIEdPYmplY3QK</text>
+      <register name="0" type="4">
+        <text />
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
